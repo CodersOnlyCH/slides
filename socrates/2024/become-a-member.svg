@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <title>QR.io: QR Code Generator | Create QR Codes</title>
+      <link rel="canonical" href="https://qr.io/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name="title" content="Generate Customized QR Codes | QR.io">
+<meta name="author" content="QR.io">
+<meta name="description" content="Generate fully customized QR Codes, with color &amp; shape, logo and keep track of how many people scan your QR Codes, from where and on what date.">
+<meta name="keywords" content="qr, qr code, qr code generator">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://qr.io">
+<meta property="og:title" content="Generate Customized QR Codes | QR.io">
+<meta property="og:description" content="Generate fully customized QR Codes, with color &amp; shape, logo and keep track of how many people scan your QR Codes, from where and on what date.">
+<meta property="og:image" content="https://qr.io/logo/qr-background.png">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://qr.io">
+<meta property="twitter:title" content="Generate Customized QR Codes | QR.io">
+<meta property="twitter:description" content="Generate fully customized QR Codes, with color &amp; shape, logo and keep track of how many people scan your QR Codes, from where and on what date.">
+<meta property="twitter:image" content="https://qr.io/logo/qr-background.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://qr.io/qrfav/favicon-120-precomposed.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://qr.io/qrfav/favicon-32.png">
+<link rel="mask-icon" href="https://qr.io/qrfav/favicon-32.png" color="#ffffff">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+<!-- <link type="text/css" href="https://qr.io/node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet"> -->
+<link href="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/all.css" rel="stylesheet">
+<link type="text/css" href="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/prism.css" rel="stylesheet">
+<link type="text/css" href="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/jqvmap.min.css" rel="stylesheet">
+<link type="text/css" href="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/leaf.css" rel="stylesheet">
+<script type="text/javascript" async="" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/analytics.js"></script><script type="text/javascript" async="" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/js_002"></script><script src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/1125886941279295.js" async=""></script><script async="" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/fbevents.js"></script><script src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/vue@2.6.14.js"></script>
+<script src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/axios.min.js"></script>
+
+<!-- GOOGLE ANALYTICS -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180803381-1');
+</script>
+<!-- WHOSAMUNG -->
+</head><body class=""><div style="display:none"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/1573.png"></div>
+<!-- INTERCOM -->
+<!-- <script>
+  window.intercomSettings = {
+    app_id: "qmdyl5m3"
+  };
+</script>
+
+<script>
+// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/qmdyl5m3'
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/qmdyl5m3';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script> -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1125886941279295');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1125886941279295&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- PLAUSIBLE -->
+<script defer="defer" data-domain="qr.io" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/plausible.js"></script>
+
+   
+   
+      <header class="header-global">
+         <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light navbar-theme-primary headroom py-lg-2 px-lg-6" style="position: fixed;background: #ffffff;box-shadow: 0 1px 2px rgba(190,190,190,.5);">
+   <div class="container">
+      <a class="navbar-brand" href="https://qr.io/"><img class="navbar-brand-dark" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/logo-title-white.png" alt="Logo light" style="height:27px!important;"> <img class="navbar-brand-light" src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/logo-title.png" alt="Logo dark" style="height:27px!important;"></a>
+      <div class="navbar-collapse collapse" id="navbar_global">
+         <div class="navbar-collapse-header">
+            <div class="row">
+               <div class="col-6 collapse-brand"><a href="https://qr.io/"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/logo-title.png" alt="menuimage"></a></div>
+               <div class="col-6 collapse-close"><a href="#navbar_global" role="button" class="fas fa-times" data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation"></a></div>
+            </div>
+         </div>
+         <ul class="navbar-nav navbar-nav-hover" style="margin-left: 10px;">
+           <li class="nav-item dropdown">
+              <a href="#" class="nav-link" data-toggle="dropdown" role="button"><span class="nav-link-inner-text mr-1">QR Codes</span> <i class="fas fa-angle-down nav-link-arrow"></i></a>
+              <div class="dropdown-menu dropdown-menu-lg">
+                 <div class="col-auto px-0" data-dropdown-content="">
+                    <div class="list-group list-group-flush">
+                       <a href="https://qr.io/static" class="list-group-item list-group-item-action d-flex align-items-center p-0 py-3 px-lg-4">
+                          <span class="icon icon-sm icon-primary"><i class="fas fa-dice-d6"></i></span>
+                          <div class="ml-4"><span class="text-dark d-block">Static QR Codes</span> <span class="small">Looking for answers? Ask us!</span></div>
+                       </a>
+                       <a href="https://qr.io/dynamic" class="list-group-item list-group-item-action d-flex align-items-center p-0 py-3 px-lg-4">
+                          <span class="icon icon-sm icon-secondary"><i class="fas fa-exchange-alt"></i></span>
+                          <div class="ml-4"><span class="text-dark d-block">Dynamic QR Codes</span> <span class="small">Examples and guides</span></div>
+                          <!-- <span class="badge badge-sm badge-secondary ml-2">PRO</span> -->
+                       </a>
+                    </div>
+                 </div>
+              </div>
+           </li>
+            <li class="nav-item"><a href="https://qr.io/faq" class="nav-link"><span class="nav-link-inner-text">FAQ</span></a></li>
+            <li class="nav-item"><a href="https://qr.io/why-us" class="nav-link"><span class="nav-link-inner-text">Why Us?</span></a></li>
+            <li class="nav-item dropdown">
+               <a href="#" class="nav-link" data-toggle="dropdown" role="button"><span class="nav-link-inner-text mr-1">Product</span> <i class="fas fa-angle-down nav-link-arrow"></i></a>
+               <ul class="dropdown-menu">
+                  <li class="nav-item"><a href="https://qr.io/features" class="dropdown-item">Features</a></li>
+                  <li class="nav-item"><a href="https://qr.io/qr-codes" class="dropdown-item">QR Codes</a></li>
+                  <li class="nav-item"><a href="https://qr.io/contact" class="dropdown-item">Contact</a></li>
+                                 </ul>
+            </li>
+            <li class="nav-item"><a href="https://qr.io/api-documentation" class="nav-link"><span class="nav-link-inner-text">API</span></a></li>
+            <li class="nav-item"><a href="https://qr.io/blog" class="nav-link"><span class="nav-link-inner-text">Blog</span></a></li>
+                        <a href="https://qr.io/login" class="d-lg-none btn btn-sm btn-warning animate-up-2" style="margin-bottom:10px;"><i class="fas fa-sign-in-alt mr-1"></i>Log In</a>
+            <a href="https://qr.io/sign-up" class="d-lg-none btn btn-sm btn-secondary animate-up-2"><i class="fas fa-plus-square mr-2"></i>Sign Up</a>
+                     </ul>
+      </div>
+            <div class="d-none d-lg-block">
+        <a href="https://qr.io/login" class="btn btn-sm btn-warning animate-up-2"><i class="fas fa-sign-in-alt mr-2"></i>Log In</a>
+        <a href="https://qr.io/sign-up" class="btn btn-sm btn-secondary animate-up-2 ml-3"><i class="fas fa-plus-square mr-2"></i>Sign Up</a>
+      </div>
+      <div class="d-flex d-lg-none align-items-center">
+        <a href="https://qr.io/sign-up" class="btn btn-sm btn-secondary animate-up-2 ml-2"><i class="fas fa-plus-square mr-1"></i>Sign Up</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_global" aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+      </div>
+         </div>
+</nav>
+          <style>
+          html {
+            scroll-behavior: smooth;
+          }
+          .colorpicker-bs-popover{
+            background: #ffffff!important;
+          }
+          .hoversquares:hover{
+            border: 2px solid #6ca7ff!important;
+            background: #e5f1fc!important;
+            cursor: pointer;
+          }
+          .activesquares{
+            border: 2px solid #6ca7ff!important;
+            background: #e5f1fc!important;
+          }
+          .vue-color__chrome__alpha-wrap,
+          .vue-color__chrome__toggle-btn,
+          .vue-color__chrome__fields-wrap,
+          .vue-color__chrome__color-wrap {
+            display: none !important;
+          }
+
+          .vue-color__chrome__controls {
+              align-items: center;
+          }
+
+          .vue-color__chrome__active-color {
+            margin-top: 0;
+          }
+
+          .fg-color {
+            height: 35px;
+            flex: 1;
+          }
+
+          .fg-color-sample {
+            display: inline-block;
+            width: 37px;
+            border: none;
+          }
+
+          .picker {
+            display: flex;
+            justify-content: justify;
+          }
+
+          #colorpicker {
+            /* max-width: 225px; */
+          }
+
+          a.deshabilitar {
+            pointer-events: none;
+            cursor: default;
+            background: #d4d4d4!important;
+            border-color: #d4d4d4;
+          }
+          .st0{fill:#E5E5E5;}
+          @media (min-width:992px) {
+            .quetesiga{
+              position:fixed!important;
+              width: 231px;
+              top:80px!important;
+            }
+            .stuckenelfinal{
+              width: 221px;
+            }
+          }
+          @media (min-width:1200px) {
+            .quetesiga{
+              position:fixed!important;
+              width: 291px;
+              top:80px!important;
+            }
+            .stuckenelfinal{
+              width: 281px;
+            }
+          }
+          @media (max-width:1199px) {
+            .wpfontsize{
+              font-size:10px!important;
+            }
+          }
+          @media (max-width:991px) {
+            .stuckenelfinal{
+              position:unset!important;
+              top:0px!important;
+            }
+            .col-mobile{
+              flex: 0 0 33.3%!important;
+              max-width: 33.3%!important;
+            }
+          }
+          @media (max-width:575px) {
+            .menostopmobile{
+              padding-top: 5.4rem!important;
+            }
+            .enmobjaja{
+              padding-top: 0!important;
+              margin-right: -15px;
+              margin-left: -15px;
+            }
+          }
+          .col-md-para5{
+            flex: 0 0 20%;
+            max-width: 20%;
+          }
+          div.highway-slider {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 150px;
+          }
+          div.highway-slider div.highway-barrier {
+            overflow: hidden;
+            position: relative;
+          }
+          div.highway-slider ul.highway-lane {
+            display: flex;
+            height: 100%;
+          }
+          div.highway-slider ul.highway-lane li.highway-car {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fff;
+            color: #c3bfc7;
+          }
+          @-webkit-keyframes translatestf {
+            0% {
+              transform: translateX(3760px);
+            }
+            100% {
+              transform: translateX(-3760px);
+            }
+          }
+          @keyframes translatestf {
+            0% {
+              transform: translateX(3760px);
+            }
+            100% {
+              transform: translateX(-3760px);
+            }
+          }
+          #stffull div.highway-barrier ul.highway-lane {
+            width: 3760px;
+          }
+          #stffull div.highway-barrier ul.highway-lane li.highway-car {
+            -webkit-animation: translatestf 30s linear infinite;
+                    animation: translatestf 30s linear infinite;
+          }
+          #stffull div.highway-barrier ul.highway-lane li.highway-car h4 {
+            font-size: 28px;
+          }
+          @media(min-width:768px){
+            @-webkit-keyframes translateinfinite {
+              100% {
+                transform: translateX(calc(-180px * 12));
+              }
+            }
+            @keyframes translateinfinite {
+              100% {
+                transform: translateX(calc(-180px * 12));
+              }
+            }
+          }
+          @media(max-width:767px){
+            @-webkit-keyframes translateinfinite {
+              100% {
+                transform: translateX(calc(-180px * 19));
+              }
+            }
+            @keyframes translateinfinite {
+              100% {
+                transform: translateX(calc(-180px * 19));
+              }
+            }
+          }
+          #infinite div.highway-barrier {
+            background: #fff;
+          }
+          #infinite div.highway-barrier::before,
+          #infinite div.highway-barrier::after {
+            content: " ";
+            position: absolute;
+            z-index: 9;
+            width: 180px;
+            height: 100%;
+          }
+          #infinite div.highway-barrier::before {
+            top: 0;
+            left: 0;
+            background: linear-gradient(to right, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
+          }
+          #infinite div.highway-barrier::after {
+            top: 0;
+            right: 0;
+            background: linear-gradient(to left, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
+          }
+          #infinite div.highway-barrier ul.highway-lane {
+            width: calc(180px * 20);
+          }
+          #infinite div.highway-barrier ul.highway-lane li.highway-car {
+            width: 180px;
+            -webkit-animation: translateinfinite 25s linear infinite;
+                    animation: translateinfinite 25s linear infinite;
+          }
+          #infinite div.highway-barrier ul.highway-lane li.highway-car span.fab {
+            font-size: 65px;
+          }
+          .google-btn {
+            width: 100%;
+            height: 42px;
+            background-color: #4285f4;
+            border-radius: 2px;
+          }
+          .google-btn .google-icon-wrapper {
+            position: absolute;
+            margin-top: 1px;
+            margin-left: 1px;
+            width: 40px;
+            height: 40px;
+            border-radius: 2px;
+            background-color: #fff;
+          }
+          .google-btn .google-icon {
+            position: absolute;
+            margin-top: 11px;
+            margin-left: 11px;
+            width: 18px;
+            height: 18px;
+          }
+          .google-btn .btn-text {
+            color: #fff;
+            letter-spacing: 0.2px;
+            text-align: center;
+            line-height: 41px;
+          }
+          .google-btn:active {
+            background: #1669F2;
+          }
+          </style>
+      </header>
+      <main id="generator"><section class="section-header bg-soft text-dark menostopmobile"><div class="container"><div class="row" style="box-shadow: rgba(0, 0, 0, 0.06) 0px 14px 16px !important;"><div class="col-generator-8" style="padding: 0px;"><div class="card shadow-soft border-light text-left mb-4 mb-md-0 border-of-generator-index" style="background: rgb(243, 247, 250); height: 100%;"><div class="card-body p-4 p-sm-5 enmobjaja"><div id="myTab" class="nav nav-tabs mb-3 row border-tabs-generator-index" style="background: rgb(255, 255, 255);"><li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab1" class="nav-link-generator-index active" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-link mr-1" style="font-size: 14px;"></i>Link</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab3" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-envelope mr-1" style="font-size: 14px;"></i>E-mail</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab4" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-align-justify mr-1" style="font-size: 14px;"></i>Text</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab5" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-phone-volume mr-1" style="font-size: 14px;"></i>Call</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab6" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-sms mr-1" style="font-size: 14px;"></i>SMS</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab9" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="far fa-id-card mr-1" style="font-size: 14px;"></i>V-card</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab7" class="wpfontsize nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fab fa-whatsapp mr-1" style="font-size: 14px;"></i>Whatsapp</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab8" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-wifi mr-1" style="font-size: 14px;"></i>WI-FI</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab10" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fab fa-paypal mr-1" style="font-size: 14px;"></i>PayPal</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab11" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fa fa-calendar mr-1" style="font-size: 14px;"></i>Event</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab12" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-file-pdf mr-1" style="font-size: 14px;"></i>PDF</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab13" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-mobile-alt mr-1" style="font-size: 14px;"></i>App</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab14" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-images mr-1" style="font-size: 14px;"></i>Images</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab15" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-play-circle mr-1" style="font-size: 14px;"></i>Video</a></li> <li class="nav-item col-md-para5 col-mobile" style="padding: 0px;"><a id="tab16" class="nav-link-generator-index" style="padding: 1rem 0px; border-radius: 0rem; text-align: center; font-size: 14px; font-weight: 600;"><i class="fas fa-share-alt mr-1" style="font-size: 14px;"></i>Social Media</a></li></div> <div class="form-group focused"><h6 style="margin-bottom: 10px;">Submit URL</h6> <input type="url" name="url" id="input1" placeholder="https://" class="form-control" value="https://codersonly.org/verein/mitgliedschaft/"> <p id="errorlink" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p> <small class="form-text text-muted" style="margin-top: 0.75rem;">Your QR code will open this URL.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">E-mail Content</h6> <input type="email" name="email" id="input2" placeholder="Your Email Address" class="form-control"> <p id="errormailto" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p> <br> <input type="text" name="subject" id="input3" placeholder="Subject Of Email" class="form-control"> <p id="errorsubject" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p> <br> <textarea id="input4" placeholder="Message" class="form-control"></textarea> <p id="errorbody" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p> <small class="form-text text-muted" style="margin-top: 0.75rem;">Scanning the QR code will send this email.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">Text</h6> <textarea maxlength="1000" id="input5" placeholder="Write your text here" class="form-control"></textarea> <!----> <p id="errordata" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p> <small class="form-text text-muted" style="margin-top: 0.75rem;">Scanning the QR code will show this text.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">Phone Call</h6> <div class="row"><div class="col-sm-4"><div class="form-group"><label>Country code</label> <select name="countrycodetel" class="custom-select"><option value="" label="--" selected="selected">--</option>\n<option value="7840" label="Abkhazia (+7 840)">Abkhazia (+7 840)</option>\n<option value="7940" label="Abkhazia (+7 940)">Abkhazia (+7 940)</option>\n<option value="93" label="Afghanistan (+93)">Afghanistan (+93)</option>\n<option value="355" label="Albania (+355)">Albania (+355)</option>\n<option value="213" label="Algeria (+213)">Algeria (+213)</option>\n<option value="1684" label="American Samoa (+1 684)">American Samoa (+1 684)</option>\n<option value="376" label="Andorra (+376)">Andorra (+376)</option>\n<option value="244" label="Angola (+244)">Angola (+244)</option>\n<option value="1264" label="Anguilla (+1 264)">Anguilla (+1 264)</option>\n<option value="1268" label="Antigua and Barbuda (+1 268)">Antigua and Barbuda (+1 268)</option>\n<option value="54" label="Argentina (+54)">Argentina (+54)</option>\n<option value="374" label="Armenia (+374)">Armenia (+374)</option>\n<option value="297" label="Aruba (+297)">Aruba (+297)</option>\n<option value="247" label="Ascension (+247)">Ascension (+247)</option>\n<option value="61" label="Australia (+61)">Australia (+61)</option>\n<option value="672" label="Australian External Territories (+672)">Australian External Territories (+672)</option>\n<option value="43" label="Austria (+43)">Austria (+43)</option>\n<option value="994" label="Azerbaijan (+994)">Azerbaijan (+994)</option>\n<option value="1242" label="Bahamas (+1 242)">Bahamas (+1 242)</option>\n<option value="973" label="Bahrain (+973)">Bahrain (+973)</option>\n<option value="880" label="Bangladesh (+880)">Bangladesh (+880)</option>\n<option value="1246" label="Barbados (+1 246)">Barbados (+1 246)</option>\n<option value="1268" label="Barbuda (+1 268)">Barbuda (+1 268)</option>\n<option value="375" label="Belarus (+375)">Belarus (+375)</option>\n<option value="32" label="Belgium (+32)">Belgium (+32)</option>\n<option value="501" label="Belize (+501)">Belize (+501)</option>\n<option value="229" label="Benin (+229)">Benin (+229)</option>\n<option value="1441" label="Bermuda (+1 441)">Bermuda (+1 441)</option>\n<option value="975" label="Bhutan (+975)">Bhutan (+975)</option>\n<option value="591" label="Bolivia (+591)">Bolivia (+591)</option>\n<option value="387" label="Bosnia and Herzegovina (+387)">Bosnia and Herzegovina (+387)</option>\n<option value="267" label="Botswana (+267)">Botswana (+267)</option>\n<option value="55" label="Brazil (+55)">Brazil (+55)</option>\n<option value="246" label="British Indian Ocean Territory (+246)">British Indian Ocean Territory (+246)</option>\n<option value="1284" label="British Virgin Islands (+1 284)">British Virgin Islands (+1 284)</option>\n<option value="673" label="Brunei (+673)">Brunei (+673)</option>\n<option value="359" label="Bulgaria (+359)">Bulgaria (+359)</option>\n<option value="226" label="Burkina Faso (+226)">Burkina Faso (+226)</option>\n<option value="257" label="Burundi (+257)">Burundi (+257)</option>\n<option value="855" label="Cambodia (+855)">Cambodia (+855)</option>\n<option value="237" label="Cameroon (+237)">Cameroon (+237)</option>\n<option value="1" label="Canada (+1)">Canada (+1)</option>\n<option value="238" label="Cape Verde (+238)">Cape Verde (+238)</option>\n<option value="345" label="Cayman Islands (+345)">Cayman Islands (+345)</option>\n<option value="236" label="Central African Republic (+236)">Central African Republic (+236)</option>\n<option value="235" label="Chad (+235)">Chad (+235)</option>\n<option value="56" label="Chile (+56)">Chile (+56)</option>\n<option value="86" label="China (+86)">China (+86)</option>\n<option value="61" label="Christmas Island (+61)">Christmas Island (+61)</option>\n<option value="61" label="Cocos-Keeling Islands (+61)">Cocos-Keeling Islands (+61)</option>\n<option value="57" label="Colombia (+57)">Colombia (+57)</option>\n<option value="269" label="Comoros (+269)">Comoros (+269)</option>\n<option value="242" label="Congo (+242)">Congo (+242)</option>\n<option value="243" label="Congo, Dem. Rep. of (Zaire) (+243)">Congo, Dem. Rep. of (Zaire) (+243)</option>\n<option value="682" label="Cook Islands (+682)">Cook Islands (+682)</option>\n<option value="506" label="Costa Rica (+506)">Costa Rica (+506)</option>\n<option value="225" label="Ivory Coast (+225)">Ivory Coast (+225)</option>\n<option value="385" label="Croatia (+385)">Croatia (+385)</option>\n<option value="53" label="Cuba (+53)">Cuba (+53)</option>\n<option value="599" label="Curacao (+599)">Curacao (+599)</option>\n<option value="357" label="Cyprus (+357)">Cyprus (+357)</option>\n<option value="420" label="Czech Republic (+420)">Czech Republic (+420)</option>\n<option value="45" label="Denmark (+45)">Denmark (+45)</option>\n<option value="246" label="Diego Garcia (+246)">Diego Garcia (+246)</option>\n<option value="253" label="Djibouti (+253)">Djibouti (+253)</option>\n<option value="1767" label="Dominica (+1 767)">Dominica (+1 767)</option>\n<option value="1809" label="Dominican Republic (+1 809)">Dominican Republic (+1 809)</option>\n<option value="1829" label="Dominican Republic (+1 829)">Dominican Republic (+1 829)</option>\n<option value="1849" label="Dominican Republic (+1 849)">Dominican Republic (+1 849)</option>\n<option value="670" label="East Timor (+670)">East Timor (+670)</option>\n<option value="56" label="Easter Island (+56)">Easter Island (+56)</option>\n<option value="593" label="Ecuador (+593)">Ecuador (+593)</option>\n<option value="20" label="Egypt (+20)">Egypt (+20)</option>\n<option value="503" label="El Salvador (+503)">El Salvador (+503)</option>\n<option value="240" label="Equatorial Guinea (+240)">Equatorial Guinea (+240)</option>\n<option value="291" label="Eritrea (+291)">Eritrea (+291)</option>\n<option value="372" label="Estonia (+372)">Estonia (+372)</option>\n<option value="251" label="Ethiopia (+251)">Ethiopia (+251)</option>\n<option value="500" label="Falkland Islands (+500)">Falkland Islands (+500)</option>\n<option value="298" label="Faroe Islands (+298)">Faroe Islands (+298)</option>\n<option value="679" label="Fiji (+679)">Fiji (+679)</option>\n<option value="358" label="Finland (+358)">Finland (+358)</option>\n<option value="33" label="France (+33)">France (+33)</option>\n<option value="596" label="French Antilles (+596)">French Antilles (+596)</option>\n<option value="594" label="French Guiana (+594)">French Guiana (+594)</option>\n<option value="689" label="French Polynesia (+689)">French Polynesia (+689)</option>\n<option value="241" label="Gabon (+241)">Gabon (+241)</option>\n<option value="220" label="Gambia (+220)">Gambia (+220)</option>\n<option value="995" label="Georgia (+995)">Georgia (+995)</option>\n<option value="49" label="Germany (+49)">Germany (+49)</option>\n<option value="233" label="Ghana (+233)">Ghana (+233)</option>\n<option value="350" label="Gibraltar (+350)">Gibraltar (+350)</option>\n<option value="30" label="Greece (+30)">Greece (+30)</option>\n<option value="299" label="Greenland (+299)">Greenland (+299)</option>\n<option value="1473" label="Grenada (+1 473)">Grenada (+1 473)</option>\n<option value="590" label="Guadeloupe (+590)">Guadeloupe (+590)</option>\n<option value="1671" label="Guam (+1 671)">Guam (+1 671)</option>\n<option value="502" label="Guatemala (+502)">Guatemala (+502)</option>\n<option value="224" label="Guinea (+224)">Guinea (+224)</option>\n<option value="245" label="Guinea-Bissau (+245)">Guinea-Bissau (+245)</option>\n<option value="595" label="Guyana (+595)">Guyana (+595)</option>\n<option value="509" label="Haiti (+509)">Haiti (+509)</option>\n<option value="504" label="Honduras (+504)">Honduras (+504)</option>\n<option value="36" label="Hungary (+36)">Hungary (+36)</option>\n<option value="852" label="Hong Kong SAR China (+852)">Hong Kong SAR China (+852)</option>\n<option value="248" label="Seychelles (+248)">Seychelles (+248)</option>\n<option value="354" label="Iceland (+354)">Iceland (+354)</option>\n<option value="91" label="India (+91)">India (+91)</option>\n<option value="62" label="Indonesia (+62)">Indonesia (+62)</option>\n<option value="98" label="Iran (+98)">Iran (+98)</option>\n<option value="964" label="Iraq (+964)">Iraq (+964)</option>\n<option value="353" label="Ireland (+353)">Ireland (+353)</option>\n<option value="972" label="Israel (+972)">Israel (+972)</option>\n<option value="39" label="Italy (+39)">Italy (+39)</option>\n<option value="1876" label="Jamaica (+1 876)">Jamaica (+1 876)</option>\n<option value="81" label="Japan (+81)">Japan (+81)</option>\n<option value="962" label="Jordan (+962)">Jordan (+962)</option>\n<option value="77" label="Kazakhstan (+7 7)">Kazakhstan (+7 7)</option>\n<option value="254" label="Kenya (+254)">Kenya (+254)</option>\n<option value="686" label="Kiribati (+686)">Kiribati (+686)</option>\n<option value="850" label="North Korea (+850)">North Korea (+850)</option>\n<option value="82" label="South Korea (+82)">South Korea (+82)</option>\n<option value="965" label="Kuwait (+965)">Kuwait (+965)</option>\n<option value="996" label="Kyrgyzstan (+996)">Kyrgyzstan (+996)</option>\n<option value="856" label="Laos (+856)">Laos (+856)</option>\n<option value="371" label="Latvia (+371)">Latvia (+371)</option>\n<option value="961" label="Lebanon (+961)">Lebanon (+961)</option>\n<option value="266" label="Lesotho (+266)">Lesotho (+266)</option>\n<option value="231" label="Liberia (+231)">Liberia (+231)</option>\n<option value="218" label="Libya (+218)">Libya (+218)</option>\n<option value="423" label="Liechtenstein (+423)">Liechtenstein (+423)</option>\n<option value="370" label="Lithuania (+370)">Lithuania (+370)</option>\n<option value="352" label="Luxembourg (+352)">Luxembourg (+352)</option>\n<option value="853" label="Macau SAR China (+853)">Macau SAR China (+853)</option>\n<option value="389" label="Macedonia (+389)">Macedonia (+389)</option>\n<option value="261" label="Madagascar (+261)">Madagascar (+261)</option>\n<option value="265" label="Malawi (+265)">Malawi (+265)</option>\n<option value="60" label="Malaysia (+60)">Malaysia (+60)</option>\n<option value="960" label="Maldives (+960)">Maldives (+960)</option>\n<option value="223" label="Mali (+223)">Mali (+223)</option>\n<option value="356" label="Malta (+356)">Malta (+356)</option>\n<option value="692" label="Marshall Islands (+692)">Marshall Islands (+692)</option>\n<option value="596" label="Martinique (+596)">Martinique (+596)</option>\n<option value="222" label="Mauritania (+222)">Mauritania (+222)</option>\n<option value="230" label="Mauritius (+230)">Mauritius (+230)</option>\n<option value="262" label="Mayotte (+262)">Mayotte (+262)</option>\n<option value="52" label="Mexico (+52)">Mexico (+52)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="1808" label="Midway Island (+1 808)">Midway Island (+1 808)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="373" label="Moldova (+373)">Moldova (+373)</option>\n<option value="377" label="Monaco (+377)">Monaco (+377)</option>\n<option value="976" label="Mongolia (+976)">Mongolia (+976)</option>\n<option value="382" label="Montenegro (+382)">Montenegro (+382)</option>\n<option value="1664" label="Montserrat (+1664)">Montserrat (+1664)</option>\n<option value="212" label="Morocco (+212)">Morocco (+212)</option>\n<option value="95" label="Myanmar (+95)">Myanmar (+95)</option>\n<option value="264" label="Namibia (+264)">Namibia (+264)</option>\n<option value="674" label="Nauru (+674)">Nauru (+674)</option>\n<option value="977" label="Nepal (+977)">Nepal (+977)</option>\n<option value="31" label="Netherlands (+31)">Netherlands (+31)</option>\n<option value="599" label="Netherlands Antilles (+599)">Netherlands Antilles (+599)</option>\n<option value="1869" label="Nevis (+1 869)">Nevis (+1 869)</option>\n<option value="687" label="New Caledonia (+687)">New Caledonia (+687)</option>\n<option value="64" label="New Zealand (64)">New Zealand (64)</option>\n<option value="505" label="Nicaragua (+505)">Nicaragua (+505)</option>\n<option value="227" label="Niger (+227)">Niger (+227)</option>\n<option value="234" label="Nigeria (+234)">Nigeria (+234)</option>\n<option value="683" label="Niue (+683)">Niue (+683)</option>\n<option value="672" label="Norfolk Island (+672)">Norfolk Island (+672)</option>\n<option value="1670" label="Northern Mariana Islands (+1 670)">Northern Mariana Islands (+1 670)</option>\n<option value="47" label="Norway (+47)">Norway (+47)</option>\n<option value="968" label="Oman (+968)">Oman (+968)</option>\n<option value="92" label="Pakistan (+92)">Pakistan (+92)</option>\n<option value="680" label="Palau (+680)">Palau (+680)</option>\n<option value="970" label="Palestinian Territory (+970)">Palestinian Territory (+970)</option>\n<option value="507" label="Panama (+507)">Panama (+507)</option>\n<option value="675" label="Papua New Guinea (+675)">Papua New Guinea (+675)</option>\n<option value="595" label="Paraguay (+595)">Paraguay (+595)</option>\n<option value="51" label="Peru (+51)">Peru (+51)</option>\n<option value="63" label="Philippines (+63)">Philippines (+63)</option>\n<option value="48" label="Poland (+48)">Poland (+48)</option>\n<option value="351" label="Portugal (+351)">Portugal (+351)</option>\n<option value="1787" label="Puerto Rico (+1 787)">Puerto Rico (+1 787)</option>\n<option value="1939" label="Puerto Rico (+1 939)">Puerto Rico (+1 939)</option>\n<option value="974" label="Qatar (+974)">Qatar (+974)</option>\n<option value="262" label="Reunion (+262)">Reunion (+262)</option>\n<option value="40" label="Romania (+40)">Romania (+40)</option>\n<option value="7" label="Russia (+7)">Russia (+7)</option>\n<option value="250" label="Rwanda (+250)">Rwanda (+250)</option>\n<option value="685" label="Samoa (+685)">Samoa (+685)</option>\n<option value="378" label="San Marino (+378)">San Marino (+378)</option>\n<option value="966" label="Saudi Arabia (+966)">Saudi Arabia (+966)</option>\n<option value="221" label="Senegal (+221)">Senegal (+221)</option>\n<option value="381" label="Serbia (+381)">Serbia (+381)</option>\n<option value="232" label="Sierra Leone (+232)">Sierra Leone (+232)</option>\n<option value="65" label="Singapore (+65)">Singapore (+65)</option>\n<option value="421" label="Slovakia (+421)">Slovakia (+421)</option>\n<option value="386" label="Slovenia (+386)">Slovenia (+386)</option>\n<option value="677" label="Solomon Islands (+677)">Solomon Islands (+677)</option>\n<option value="27" label="South Africa (+27)">South Africa (+27)</option>\n<option value="500" label="South Georgia and the South Sandwich Islands (+500)">South Georgia and the South Sandwich Islands (+500)</option>\n<option value="34" label="Spain (+34)">Spain (+34)</option>\n<option value="94" label="Sri Lanka (+94)">Sri Lanka (+94)</option>\n<option value="249" label="Sudan (+249)">Sudan (+249)</option>\n<option value="597" label="Suriname (+597)">Suriname (+597)</option>\n<option value="268" label="Swaziland (+268)">Swaziland (+268)</option>\n<option value="46" label="Sweden (+46)">Sweden (+46)</option>\n<option value="41" label="Switzerland (+41)">Switzerland (+41)</option>\n<option value="963" label="Syria (+963)">Syria (+963)</option>\n<option value="886" label="Taiwan (+886)">Taiwan (+886)</option>\n<option value="992" label="Tajikistan (+992)">Tajikistan (+992)</option>\n<option value="255" label="Tanzania (+255)">Tanzania (+255)</option>\n<option value="66" label="Thailand (+66)">Thailand (+66)</option>\n<option value="670" label="Timor Leste (+670)">Timor Leste (+670)</option>\n<option value="228" label="Togo (+228)">Togo (+228)</option>\n<option value="690" label="Tokelau (+690)">Tokelau (+690)</option>\n<option value="676" label="Tonga (+676)">Tonga (+676)</option>\n<option value="1868" label="Trinidad and Tobago (+1 868)">Trinidad and Tobago (+1 868)</option>\n<option value="216" label="Tunisia (+216)">Tunisia (+216)</option>\n<option value="90" label="Turkey (+90)">Turkey (+90)</option>\n<option value="993" label="Turkmenistan (+993)">Turkmenistan (+993)</option>\n<option value="1649" label="Turks and Caicos Islands (+1 649)">Turks and Caicos Islands (+1 649)</option>\n<option value="688" label="Tuvalu (+688)">Tuvalu (+688)</option>\n<option value="256" label="Uganda (+256)">Uganda (+256)</option>\n<option value="380" label="Ukraine (+380)">Ukraine (+380)</option>\n<option value="971" label="United Arab Emirates (+971)">United Arab Emirates (+971)</option>\n<option value="44" label="United Kingdom (+44)">United Kingdom (+44)</option>\n<option value="1" label="United States (+1)">United States (+1)</option>\n<option value="598" label="Uruguay (+598)">Uruguay (+598)</option>\n<option value="1340" label="U.S. Virgin Islands (+1 340)">U.S. Virgin Islands (+1 340)</option>\n<option value="998" label="Uzbekistan (+998)">Uzbekistan (+998)</option>\n<option value="678" label="Vanuatu (+678)">Vanuatu (+678)</option>\n<option value="58" label="Venezuela (+58)">Venezuela (+58)</option>\n<option value="84" label="Vietnam (+84)">Vietnam (+84)</option>\n<option value="1808" label="Wake Island (+1 808)">Wake Island (+1 808)</option>\n<option value="681" label="Wallis and Futuna (+681)">Wallis and Futuna (+681)</option>\n<option value="967" label="Yemen (+967)">Yemen (+967)</option>\n<option value="260" label="Zambia (+260)">Zambia (+260)</option>\n<option value="255" label="Zanzibar (+255)">Zanzibar (+255)</option>\n<option value="263" label="Zimbabwe (+263)">Zimbabwe (+263)</option>\n</select> <p id="errorcountrycodetel" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div> <div class="col-sm-8"><div class="form-group"><label>Phone number</label> <input name="tel" placeholder="Phone number" required="required" class="form-control"> <p id="errortel" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div></div> <small class="form-text text-muted" style="margin-top: 0.75rem;">Scanning the QR code will call this number.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">SMS</h6> <div class="row"><div class="col-sm-4"><div class="form-group"><label>Country code</label> <select name="countrycodetel" class="custom-select"><option value="" label="--" selected="selected">--</option>\n<option value="7840" label="Abkhazia (+7 840)">Abkhazia (+7 840)</option>\n<option value="7940" label="Abkhazia (+7 940)">Abkhazia (+7 940)</option>\n<option value="93" label="Afghanistan (+93)">Afghanistan (+93)</option>\n<option value="355" label="Albania (+355)">Albania (+355)</option>\n<option value="213" label="Algeria (+213)">Algeria (+213)</option>\n<option value="1684" label="American Samoa (+1 684)">American Samoa (+1 684)</option>\n<option value="376" label="Andorra (+376)">Andorra (+376)</option>\n<option value="244" label="Angola (+244)">Angola (+244)</option>\n<option value="1264" label="Anguilla (+1 264)">Anguilla (+1 264)</option>\n<option value="1268" label="Antigua and Barbuda (+1 268)">Antigua and Barbuda (+1 268)</option>\n<option value="54" label="Argentina (+54)">Argentina (+54)</option>\n<option value="374" label="Armenia (+374)">Armenia (+374)</option>\n<option value="297" label="Aruba (+297)">Aruba (+297)</option>\n<option value="247" label="Ascension (+247)">Ascension (+247)</option>\n<option value="61" label="Australia (+61)">Australia (+61)</option>\n<option value="672" label="Australian External Territories (+672)">Australian External Territories (+672)</option>\n<option value="43" label="Austria (+43)">Austria (+43)</option>\n<option value="994" label="Azerbaijan (+994)">Azerbaijan (+994)</option>\n<option value="1242" label="Bahamas (+1 242)">Bahamas (+1 242)</option>\n<option value="973" label="Bahrain (+973)">Bahrain (+973)</option>\n<option value="880" label="Bangladesh (+880)">Bangladesh (+880)</option>\n<option value="1246" label="Barbados (+1 246)">Barbados (+1 246)</option>\n<option value="1268" label="Barbuda (+1 268)">Barbuda (+1 268)</option>\n<option value="375" label="Belarus (+375)">Belarus (+375)</option>\n<option value="32" label="Belgium (+32)">Belgium (+32)</option>\n<option value="501" label="Belize (+501)">Belize (+501)</option>\n<option value="229" label="Benin (+229)">Benin (+229)</option>\n<option value="1441" label="Bermuda (+1 441)">Bermuda (+1 441)</option>\n<option value="975" label="Bhutan (+975)">Bhutan (+975)</option>\n<option value="591" label="Bolivia (+591)">Bolivia (+591)</option>\n<option value="387" label="Bosnia and Herzegovina (+387)">Bosnia and Herzegovina (+387)</option>\n<option value="267" label="Botswana (+267)">Botswana (+267)</option>\n<option value="55" label="Brazil (+55)">Brazil (+55)</option>\n<option value="246" label="British Indian Ocean Territory (+246)">British Indian Ocean Territory (+246)</option>\n<option value="1284" label="British Virgin Islands (+1 284)">British Virgin Islands (+1 284)</option>\n<option value="673" label="Brunei (+673)">Brunei (+673)</option>\n<option value="359" label="Bulgaria (+359)">Bulgaria (+359)</option>\n<option value="226" label="Burkina Faso (+226)">Burkina Faso (+226)</option>\n<option value="257" label="Burundi (+257)">Burundi (+257)</option>\n<option value="855" label="Cambodia (+855)">Cambodia (+855)</option>\n<option value="237" label="Cameroon (+237)">Cameroon (+237)</option>\n<option value="1" label="Canada (+1)">Canada (+1)</option>\n<option value="238" label="Cape Verde (+238)">Cape Verde (+238)</option>\n<option value="345" label="Cayman Islands (+345)">Cayman Islands (+345)</option>\n<option value="236" label="Central African Republic (+236)">Central African Republic (+236)</option>\n<option value="235" label="Chad (+235)">Chad (+235)</option>\n<option value="56" label="Chile (+56)">Chile (+56)</option>\n<option value="86" label="China (+86)">China (+86)</option>\n<option value="61" label="Christmas Island (+61)">Christmas Island (+61)</option>\n<option value="61" label="Cocos-Keeling Islands (+61)">Cocos-Keeling Islands (+61)</option>\n<option value="57" label="Colombia (+57)">Colombia (+57)</option>\n<option value="269" label="Comoros (+269)">Comoros (+269)</option>\n<option value="242" label="Congo (+242)">Congo (+242)</option>\n<option value="243" label="Congo, Dem. Rep. of (Zaire) (+243)">Congo, Dem. Rep. of (Zaire) (+243)</option>\n<option value="682" label="Cook Islands (+682)">Cook Islands (+682)</option>\n<option value="506" label="Costa Rica (+506)">Costa Rica (+506)</option>\n<option value="225" label="Ivory Coast (+225)">Ivory Coast (+225)</option>\n<option value="385" label="Croatia (+385)">Croatia (+385)</option>\n<option value="53" label="Cuba (+53)">Cuba (+53)</option>\n<option value="599" label="Curacao (+599)">Curacao (+599)</option>\n<option value="357" label="Cyprus (+357)">Cyprus (+357)</option>\n<option value="420" label="Czech Republic (+420)">Czech Republic (+420)</option>\n<option value="45" label="Denmark (+45)">Denmark (+45)</option>\n<option value="246" label="Diego Garcia (+246)">Diego Garcia (+246)</option>\n<option value="253" label="Djibouti (+253)">Djibouti (+253)</option>\n<option value="1767" label="Dominica (+1 767)">Dominica (+1 767)</option>\n<option value="1809" label="Dominican Republic (+1 809)">Dominican Republic (+1 809)</option>\n<option value="1829" label="Dominican Republic (+1 829)">Dominican Republic (+1 829)</option>\n<option value="1849" label="Dominican Republic (+1 849)">Dominican Republic (+1 849)</option>\n<option value="670" label="East Timor (+670)">East Timor (+670)</option>\n<option value="56" label="Easter Island (+56)">Easter Island (+56)</option>\n<option value="593" label="Ecuador (+593)">Ecuador (+593)</option>\n<option value="20" label="Egypt (+20)">Egypt (+20)</option>\n<option value="503" label="El Salvador (+503)">El Salvador (+503)</option>\n<option value="240" label="Equatorial Guinea (+240)">Equatorial Guinea (+240)</option>\n<option value="291" label="Eritrea (+291)">Eritrea (+291)</option>\n<option value="372" label="Estonia (+372)">Estonia (+372)</option>\n<option value="251" label="Ethiopia (+251)">Ethiopia (+251)</option>\n<option value="500" label="Falkland Islands (+500)">Falkland Islands (+500)</option>\n<option value="298" label="Faroe Islands (+298)">Faroe Islands (+298)</option>\n<option value="679" label="Fiji (+679)">Fiji (+679)</option>\n<option value="358" label="Finland (+358)">Finland (+358)</option>\n<option value="33" label="France (+33)">France (+33)</option>\n<option value="596" label="French Antilles (+596)">French Antilles (+596)</option>\n<option value="594" label="French Guiana (+594)">French Guiana (+594)</option>\n<option value="689" label="French Polynesia (+689)">French Polynesia (+689)</option>\n<option value="241" label="Gabon (+241)">Gabon (+241)</option>\n<option value="220" label="Gambia (+220)">Gambia (+220)</option>\n<option value="995" label="Georgia (+995)">Georgia (+995)</option>\n<option value="49" label="Germany (+49)">Germany (+49)</option>\n<option value="233" label="Ghana (+233)">Ghana (+233)</option>\n<option value="350" label="Gibraltar (+350)">Gibraltar (+350)</option>\n<option value="30" label="Greece (+30)">Greece (+30)</option>\n<option value="299" label="Greenland (+299)">Greenland (+299)</option>\n<option value="1473" label="Grenada (+1 473)">Grenada (+1 473)</option>\n<option value="590" label="Guadeloupe (+590)">Guadeloupe (+590)</option>\n<option value="1671" label="Guam (+1 671)">Guam (+1 671)</option>\n<option value="502" label="Guatemala (+502)">Guatemala (+502)</option>\n<option value="224" label="Guinea (+224)">Guinea (+224)</option>\n<option value="245" label="Guinea-Bissau (+245)">Guinea-Bissau (+245)</option>\n<option value="595" label="Guyana (+595)">Guyana (+595)</option>\n<option value="509" label="Haiti (+509)">Haiti (+509)</option>\n<option value="504" label="Honduras (+504)">Honduras (+504)</option>\n<option value="36" label="Hungary (+36)">Hungary (+36)</option>\n<option value="852" label="Hong Kong SAR China (+852)">Hong Kong SAR China (+852)</option>\n<option value="248" label="Seychelles (+248)">Seychelles (+248)</option>\n<option value="354" label="Iceland (+354)">Iceland (+354)</option>\n<option value="91" label="India (+91)">India (+91)</option>\n<option value="62" label="Indonesia (+62)">Indonesia (+62)</option>\n<option value="98" label="Iran (+98)">Iran (+98)</option>\n<option value="964" label="Iraq (+964)">Iraq (+964)</option>\n<option value="353" label="Ireland (+353)">Ireland (+353)</option>\n<option value="972" label="Israel (+972)">Israel (+972)</option>\n<option value="39" label="Italy (+39)">Italy (+39)</option>\n<option value="1876" label="Jamaica (+1 876)">Jamaica (+1 876)</option>\n<option value="81" label="Japan (+81)">Japan (+81)</option>\n<option value="962" label="Jordan (+962)">Jordan (+962)</option>\n<option value="77" label="Kazakhstan (+7 7)">Kazakhstan (+7 7)</option>\n<option value="254" label="Kenya (+254)">Kenya (+254)</option>\n<option value="686" label="Kiribati (+686)">Kiribati (+686)</option>\n<option value="850" label="North Korea (+850)">North Korea (+850)</option>\n<option value="82" label="South Korea (+82)">South Korea (+82)</option>\n<option value="965" label="Kuwait (+965)">Kuwait (+965)</option>\n<option value="996" label="Kyrgyzstan (+996)">Kyrgyzstan (+996)</option>\n<option value="856" label="Laos (+856)">Laos (+856)</option>\n<option value="371" label="Latvia (+371)">Latvia (+371)</option>\n<option value="961" label="Lebanon (+961)">Lebanon (+961)</option>\n<option value="266" label="Lesotho (+266)">Lesotho (+266)</option>\n<option value="231" label="Liberia (+231)">Liberia (+231)</option>\n<option value="218" label="Libya (+218)">Libya (+218)</option>\n<option value="423" label="Liechtenstein (+423)">Liechtenstein (+423)</option>\n<option value="370" label="Lithuania (+370)">Lithuania (+370)</option>\n<option value="352" label="Luxembourg (+352)">Luxembourg (+352)</option>\n<option value="853" label="Macau SAR China (+853)">Macau SAR China (+853)</option>\n<option value="389" label="Macedonia (+389)">Macedonia (+389)</option>\n<option value="261" label="Madagascar (+261)">Madagascar (+261)</option>\n<option value="265" label="Malawi (+265)">Malawi (+265)</option>\n<option value="60" label="Malaysia (+60)">Malaysia (+60)</option>\n<option value="960" label="Maldives (+960)">Maldives (+960)</option>\n<option value="223" label="Mali (+223)">Mali (+223)</option>\n<option value="356" label="Malta (+356)">Malta (+356)</option>\n<option value="692" label="Marshall Islands (+692)">Marshall Islands (+692)</option>\n<option value="596" label="Martinique (+596)">Martinique (+596)</option>\n<option value="222" label="Mauritania (+222)">Mauritania (+222)</option>\n<option value="230" label="Mauritius (+230)">Mauritius (+230)</option>\n<option value="262" label="Mayotte (+262)">Mayotte (+262)</option>\n<option value="52" label="Mexico (+52)">Mexico (+52)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="1808" label="Midway Island (+1 808)">Midway Island (+1 808)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="373" label="Moldova (+373)">Moldova (+373)</option>\n<option value="377" label="Monaco (+377)">Monaco (+377)</option>\n<option value="976" label="Mongolia (+976)">Mongolia (+976)</option>\n<option value="382" label="Montenegro (+382)">Montenegro (+382)</option>\n<option value="1664" label="Montserrat (+1664)">Montserrat (+1664)</option>\n<option value="212" label="Morocco (+212)">Morocco (+212)</option>\n<option value="95" label="Myanmar (+95)">Myanmar (+95)</option>\n<option value="264" label="Namibia (+264)">Namibia (+264)</option>\n<option value="674" label="Nauru (+674)">Nauru (+674)</option>\n<option value="977" label="Nepal (+977)">Nepal (+977)</option>\n<option value="31" label="Netherlands (+31)">Netherlands (+31)</option>\n<option value="599" label="Netherlands Antilles (+599)">Netherlands Antilles (+599)</option>\n<option value="1869" label="Nevis (+1 869)">Nevis (+1 869)</option>\n<option value="687" label="New Caledonia (+687)">New Caledonia (+687)</option>\n<option value="64" label="New Zealand (64)">New Zealand (64)</option>\n<option value="505" label="Nicaragua (+505)">Nicaragua (+505)</option>\n<option value="227" label="Niger (+227)">Niger (+227)</option>\n<option value="234" label="Nigeria (+234)">Nigeria (+234)</option>\n<option value="683" label="Niue (+683)">Niue (+683)</option>\n<option value="672" label="Norfolk Island (+672)">Norfolk Island (+672)</option>\n<option value="1670" label="Northern Mariana Islands (+1 670)">Northern Mariana Islands (+1 670)</option>\n<option value="47" label="Norway (+47)">Norway (+47)</option>\n<option value="968" label="Oman (+968)">Oman (+968)</option>\n<option value="92" label="Pakistan (+92)">Pakistan (+92)</option>\n<option value="680" label="Palau (+680)">Palau (+680)</option>\n<option value="970" label="Palestinian Territory (+970)">Palestinian Territory (+970)</option>\n<option value="507" label="Panama (+507)">Panama (+507)</option>\n<option value="675" label="Papua New Guinea (+675)">Papua New Guinea (+675)</option>\n<option value="595" label="Paraguay (+595)">Paraguay (+595)</option>\n<option value="51" label="Peru (+51)">Peru (+51)</option>\n<option value="63" label="Philippines (+63)">Philippines (+63)</option>\n<option value="48" label="Poland (+48)">Poland (+48)</option>\n<option value="351" label="Portugal (+351)">Portugal (+351)</option>\n<option value="1787" label="Puerto Rico (+1 787)">Puerto Rico (+1 787)</option>\n<option value="1939" label="Puerto Rico (+1 939)">Puerto Rico (+1 939)</option>\n<option value="974" label="Qatar (+974)">Qatar (+974)</option>\n<option value="262" label="Reunion (+262)">Reunion (+262)</option>\n<option value="40" label="Romania (+40)">Romania (+40)</option>\n<option value="7" label="Russia (+7)">Russia (+7)</option>\n<option value="250" label="Rwanda (+250)">Rwanda (+250)</option>\n<option value="685" label="Samoa (+685)">Samoa (+685)</option>\n<option value="378" label="San Marino (+378)">San Marino (+378)</option>\n<option value="966" label="Saudi Arabia (+966)">Saudi Arabia (+966)</option>\n<option value="221" label="Senegal (+221)">Senegal (+221)</option>\n<option value="381" label="Serbia (+381)">Serbia (+381)</option>\n<option value="232" label="Sierra Leone (+232)">Sierra Leone (+232)</option>\n<option value="65" label="Singapore (+65)">Singapore (+65)</option>\n<option value="421" label="Slovakia (+421)">Slovakia (+421)</option>\n<option value="386" label="Slovenia (+386)">Slovenia (+386)</option>\n<option value="677" label="Solomon Islands (+677)">Solomon Islands (+677)</option>\n<option value="27" label="South Africa (+27)">South Africa (+27)</option>\n<option value="500" label="South Georgia and the South Sandwich Islands (+500)">South Georgia and the South Sandwich Islands (+500)</option>\n<option value="34" label="Spain (+34)">Spain (+34)</option>\n<option value="94" label="Sri Lanka (+94)">Sri Lanka (+94)</option>\n<option value="249" label="Sudan (+249)">Sudan (+249)</option>\n<option value="597" label="Suriname (+597)">Suriname (+597)</option>\n<option value="268" label="Swaziland (+268)">Swaziland (+268)</option>\n<option value="46" label="Sweden (+46)">Sweden (+46)</option>\n<option value="41" label="Switzerland (+41)">Switzerland (+41)</option>\n<option value="963" label="Syria (+963)">Syria (+963)</option>\n<option value="886" label="Taiwan (+886)">Taiwan (+886)</option>\n<option value="992" label="Tajikistan (+992)">Tajikistan (+992)</option>\n<option value="255" label="Tanzania (+255)">Tanzania (+255)</option>\n<option value="66" label="Thailand (+66)">Thailand (+66)</option>\n<option value="670" label="Timor Leste (+670)">Timor Leste (+670)</option>\n<option value="228" label="Togo (+228)">Togo (+228)</option>\n<option value="690" label="Tokelau (+690)">Tokelau (+690)</option>\n<option value="676" label="Tonga (+676)">Tonga (+676)</option>\n<option value="1868" label="Trinidad and Tobago (+1 868)">Trinidad and Tobago (+1 868)</option>\n<option value="216" label="Tunisia (+216)">Tunisia (+216)</option>\n<option value="90" label="Turkey (+90)">Turkey (+90)</option>\n<option value="993" label="Turkmenistan (+993)">Turkmenistan (+993)</option>\n<option value="1649" label="Turks and Caicos Islands (+1 649)">Turks and Caicos Islands (+1 649)</option>\n<option value="688" label="Tuvalu (+688)">Tuvalu (+688)</option>\n<option value="256" label="Uganda (+256)">Uganda (+256)</option>\n<option value="380" label="Ukraine (+380)">Ukraine (+380)</option>\n<option value="971" label="United Arab Emirates (+971)">United Arab Emirates (+971)</option>\n<option value="44" label="United Kingdom (+44)">United Kingdom (+44)</option>\n<option value="1" label="United States (+1)">United States (+1)</option>\n<option value="598" label="Uruguay (+598)">Uruguay (+598)</option>\n<option value="1340" label="U.S. Virgin Islands (+1 340)">U.S. Virgin Islands (+1 340)</option>\n<option value="998" label="Uzbekistan (+998)">Uzbekistan (+998)</option>\n<option value="678" label="Vanuatu (+678)">Vanuatu (+678)</option>\n<option value="58" label="Venezuela (+58)">Venezuela (+58)</option>\n<option value="84" label="Vietnam (+84)">Vietnam (+84)</option>\n<option value="1808" label="Wake Island (+1 808)">Wake Island (+1 808)</option>\n<option value="681" label="Wallis and Futuna (+681)">Wallis and Futuna (+681)</option>\n<option value="967" label="Yemen (+967)">Yemen (+967)</option>\n<option value="260" label="Zambia (+260)">Zambia (+260)</option>\n<option value="255" label="Zanzibar (+255)">Zanzibar (+255)</option>\n<option value="263" label="Zimbabwe (+263)">Zimbabwe (+263)</option>\n</select></div></div> <div class="col-sm-8"><div class="form-group"><label>Phone number</label> <input name="tel" placeholder="Phone number" required="required" class="form-control"> <p id="errorsms" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div> <div class="col-sm-12"><div class="form-group"><textarea id="input6" placeholder="Message" class="form-control"></textarea> <p id="errorbodysms" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div></div> <small class="form-text text-muted" style="margin-top: 0.75rem;">Scanning the QR code will send message to the phone number.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">Whatsapp</h6> <div class="row"><div class="col-sm-4"><div class="form-group"><label>Country code</label> <select name="countrycodetel" class="custom-select"><option value="" label="--" selected="selected">--</option>\n<option value="7840" label="Abkhazia (+7 840)">Abkhazia (+7 840)</option>\n<option value="7940" label="Abkhazia (+7 940)">Abkhazia (+7 940)</option>\n<option value="93" label="Afghanistan (+93)">Afghanistan (+93)</option>\n<option value="355" label="Albania (+355)">Albania (+355)</option>\n<option value="213" label="Algeria (+213)">Algeria (+213)</option>\n<option value="1684" label="American Samoa (+1 684)">American Samoa (+1 684)</option>\n<option value="376" label="Andorra (+376)">Andorra (+376)</option>\n<option value="244" label="Angola (+244)">Angola (+244)</option>\n<option value="1264" label="Anguilla (+1 264)">Anguilla (+1 264)</option>\n<option value="1268" label="Antigua and Barbuda (+1 268)">Antigua and Barbuda (+1 268)</option>\n<option value="54" label="Argentina (+54)">Argentina (+54)</option>\n<option value="374" label="Armenia (+374)">Armenia (+374)</option>\n<option value="297" label="Aruba (+297)">Aruba (+297)</option>\n<option value="247" label="Ascension (+247)">Ascension (+247)</option>\n<option value="61" label="Australia (+61)">Australia (+61)</option>\n<option value="672" label="Australian External Territories (+672)">Australian External Territories (+672)</option>\n<option value="43" label="Austria (+43)">Austria (+43)</option>\n<option value="994" label="Azerbaijan (+994)">Azerbaijan (+994)</option>\n<option value="1242" label="Bahamas (+1 242)">Bahamas (+1 242)</option>\n<option value="973" label="Bahrain (+973)">Bahrain (+973)</option>\n<option value="880" label="Bangladesh (+880)">Bangladesh (+880)</option>\n<option value="1246" label="Barbados (+1 246)">Barbados (+1 246)</option>\n<option value="1268" label="Barbuda (+1 268)">Barbuda (+1 268)</option>\n<option value="375" label="Belarus (+375)">Belarus (+375)</option>\n<option value="32" label="Belgium (+32)">Belgium (+32)</option>\n<option value="501" label="Belize (+501)">Belize (+501)</option>\n<option value="229" label="Benin (+229)">Benin (+229)</option>\n<option value="1441" label="Bermuda (+1 441)">Bermuda (+1 441)</option>\n<option value="975" label="Bhutan (+975)">Bhutan (+975)</option>\n<option value="591" label="Bolivia (+591)">Bolivia (+591)</option>\n<option value="387" label="Bosnia and Herzegovina (+387)">Bosnia and Herzegovina (+387)</option>\n<option value="267" label="Botswana (+267)">Botswana (+267)</option>\n<option value="55" label="Brazil (+55)">Brazil (+55)</option>\n<option value="246" label="British Indian Ocean Territory (+246)">British Indian Ocean Territory (+246)</option>\n<option value="1284" label="British Virgin Islands (+1 284)">British Virgin Islands (+1 284)</option>\n<option value="673" label="Brunei (+673)">Brunei (+673)</option>\n<option value="359" label="Bulgaria (+359)">Bulgaria (+359)</option>\n<option value="226" label="Burkina Faso (+226)">Burkina Faso (+226)</option>\n<option value="257" label="Burundi (+257)">Burundi (+257)</option>\n<option value="855" label="Cambodia (+855)">Cambodia (+855)</option>\n<option value="237" label="Cameroon (+237)">Cameroon (+237)</option>\n<option value="1" label="Canada (+1)">Canada (+1)</option>\n<option value="238" label="Cape Verde (+238)">Cape Verde (+238)</option>\n<option value="345" label="Cayman Islands (+345)">Cayman Islands (+345)</option>\n<option value="236" label="Central African Republic (+236)">Central African Republic (+236)</option>\n<option value="235" label="Chad (+235)">Chad (+235)</option>\n<option value="56" label="Chile (+56)">Chile (+56)</option>\n<option value="86" label="China (+86)">China (+86)</option>\n<option value="61" label="Christmas Island (+61)">Christmas Island (+61)</option>\n<option value="61" label="Cocos-Keeling Islands (+61)">Cocos-Keeling Islands (+61)</option>\n<option value="57" label="Colombia (+57)">Colombia (+57)</option>\n<option value="269" label="Comoros (+269)">Comoros (+269)</option>\n<option value="242" label="Congo (+242)">Congo (+242)</option>\n<option value="243" label="Congo, Dem. Rep. of (Zaire) (+243)">Congo, Dem. Rep. of (Zaire) (+243)</option>\n<option value="682" label="Cook Islands (+682)">Cook Islands (+682)</option>\n<option value="506" label="Costa Rica (+506)">Costa Rica (+506)</option>\n<option value="225" label="Ivory Coast (+225)">Ivory Coast (+225)</option>\n<option value="385" label="Croatia (+385)">Croatia (+385)</option>\n<option value="53" label="Cuba (+53)">Cuba (+53)</option>\n<option value="599" label="Curacao (+599)">Curacao (+599)</option>\n<option value="357" label="Cyprus (+357)">Cyprus (+357)</option>\n<option value="420" label="Czech Republic (+420)">Czech Republic (+420)</option>\n<option value="45" label="Denmark (+45)">Denmark (+45)</option>\n<option value="246" label="Diego Garcia (+246)">Diego Garcia (+246)</option>\n<option value="253" label="Djibouti (+253)">Djibouti (+253)</option>\n<option value="1767" label="Dominica (+1 767)">Dominica (+1 767)</option>\n<option value="1809" label="Dominican Republic (+1 809)">Dominican Republic (+1 809)</option>\n<option value="1829" label="Dominican Republic (+1 829)">Dominican Republic (+1 829)</option>\n<option value="1849" label="Dominican Republic (+1 849)">Dominican Republic (+1 849)</option>\n<option value="670" label="East Timor (+670)">East Timor (+670)</option>\n<option value="56" label="Easter Island (+56)">Easter Island (+56)</option>\n<option value="593" label="Ecuador (+593)">Ecuador (+593)</option>\n<option value="20" label="Egypt (+20)">Egypt (+20)</option>\n<option value="503" label="El Salvador (+503)">El Salvador (+503)</option>\n<option value="240" label="Equatorial Guinea (+240)">Equatorial Guinea (+240)</option>\n<option value="291" label="Eritrea (+291)">Eritrea (+291)</option>\n<option value="372" label="Estonia (+372)">Estonia (+372)</option>\n<option value="251" label="Ethiopia (+251)">Ethiopia (+251)</option>\n<option value="500" label="Falkland Islands (+500)">Falkland Islands (+500)</option>\n<option value="298" label="Faroe Islands (+298)">Faroe Islands (+298)</option>\n<option value="679" label="Fiji (+679)">Fiji (+679)</option>\n<option value="358" label="Finland (+358)">Finland (+358)</option>\n<option value="33" label="France (+33)">France (+33)</option>\n<option value="596" label="French Antilles (+596)">French Antilles (+596)</option>\n<option value="594" label="French Guiana (+594)">French Guiana (+594)</option>\n<option value="689" label="French Polynesia (+689)">French Polynesia (+689)</option>\n<option value="241" label="Gabon (+241)">Gabon (+241)</option>\n<option value="220" label="Gambia (+220)">Gambia (+220)</option>\n<option value="995" label="Georgia (+995)">Georgia (+995)</option>\n<option value="49" label="Germany (+49)">Germany (+49)</option>\n<option value="233" label="Ghana (+233)">Ghana (+233)</option>\n<option value="350" label="Gibraltar (+350)">Gibraltar (+350)</option>\n<option value="30" label="Greece (+30)">Greece (+30)</option>\n<option value="299" label="Greenland (+299)">Greenland (+299)</option>\n<option value="1473" label="Grenada (+1 473)">Grenada (+1 473)</option>\n<option value="590" label="Guadeloupe (+590)">Guadeloupe (+590)</option>\n<option value="1671" label="Guam (+1 671)">Guam (+1 671)</option>\n<option value="502" label="Guatemala (+502)">Guatemala (+502)</option>\n<option value="224" label="Guinea (+224)">Guinea (+224)</option>\n<option value="245" label="Guinea-Bissau (+245)">Guinea-Bissau (+245)</option>\n<option value="595" label="Guyana (+595)">Guyana (+595)</option>\n<option value="509" label="Haiti (+509)">Haiti (+509)</option>\n<option value="504" label="Honduras (+504)">Honduras (+504)</option>\n<option value="36" label="Hungary (+36)">Hungary (+36)</option>\n<option value="852" label="Hong Kong SAR China (+852)">Hong Kong SAR China (+852)</option>\n<option value="248" label="Seychelles (+248)">Seychelles (+248)</option>\n<option value="354" label="Iceland (+354)">Iceland (+354)</option>\n<option value="91" label="India (+91)">India (+91)</option>\n<option value="62" label="Indonesia (+62)">Indonesia (+62)</option>\n<option value="98" label="Iran (+98)">Iran (+98)</option>\n<option value="964" label="Iraq (+964)">Iraq (+964)</option>\n<option value="353" label="Ireland (+353)">Ireland (+353)</option>\n<option value="972" label="Israel (+972)">Israel (+972)</option>\n<option value="39" label="Italy (+39)">Italy (+39)</option>\n<option value="1876" label="Jamaica (+1 876)">Jamaica (+1 876)</option>\n<option value="81" label="Japan (+81)">Japan (+81)</option>\n<option value="962" label="Jordan (+962)">Jordan (+962)</option>\n<option value="77" label="Kazakhstan (+7 7)">Kazakhstan (+7 7)</option>\n<option value="254" label="Kenya (+254)">Kenya (+254)</option>\n<option value="686" label="Kiribati (+686)">Kiribati (+686)</option>\n<option value="850" label="North Korea (+850)">North Korea (+850)</option>\n<option value="82" label="South Korea (+82)">South Korea (+82)</option>\n<option value="965" label="Kuwait (+965)">Kuwait (+965)</option>\n<option value="996" label="Kyrgyzstan (+996)">Kyrgyzstan (+996)</option>\n<option value="856" label="Laos (+856)">Laos (+856)</option>\n<option value="371" label="Latvia (+371)">Latvia (+371)</option>\n<option value="961" label="Lebanon (+961)">Lebanon (+961)</option>\n<option value="266" label="Lesotho (+266)">Lesotho (+266)</option>\n<option value="231" label="Liberia (+231)">Liberia (+231)</option>\n<option value="218" label="Libya (+218)">Libya (+218)</option>\n<option value="423" label="Liechtenstein (+423)">Liechtenstein (+423)</option>\n<option value="370" label="Lithuania (+370)">Lithuania (+370)</option>\n<option value="352" label="Luxembourg (+352)">Luxembourg (+352)</option>\n<option value="853" label="Macau SAR China (+853)">Macau SAR China (+853)</option>\n<option value="389" label="Macedonia (+389)">Macedonia (+389)</option>\n<option value="261" label="Madagascar (+261)">Madagascar (+261)</option>\n<option value="265" label="Malawi (+265)">Malawi (+265)</option>\n<option value="60" label="Malaysia (+60)">Malaysia (+60)</option>\n<option value="960" label="Maldives (+960)">Maldives (+960)</option>\n<option value="223" label="Mali (+223)">Mali (+223)</option>\n<option value="356" label="Malta (+356)">Malta (+356)</option>\n<option value="692" label="Marshall Islands (+692)">Marshall Islands (+692)</option>\n<option value="596" label="Martinique (+596)">Martinique (+596)</option>\n<option value="222" label="Mauritania (+222)">Mauritania (+222)</option>\n<option value="230" label="Mauritius (+230)">Mauritius (+230)</option>\n<option value="262" label="Mayotte (+262)">Mayotte (+262)</option>\n<option value="52" label="Mexico (+52)">Mexico (+52)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="1808" label="Midway Island (+1 808)">Midway Island (+1 808)</option>\n<option value="691" label="Micronesia (+691)">Micronesia (+691)</option>\n<option value="373" label="Moldova (+373)">Moldova (+373)</option>\n<option value="377" label="Monaco (+377)">Monaco (+377)</option>\n<option value="976" label="Mongolia (+976)">Mongolia (+976)</option>\n<option value="382" label="Montenegro (+382)">Montenegro (+382)</option>\n<option value="1664" label="Montserrat (+1664)">Montserrat (+1664)</option>\n<option value="212" label="Morocco (+212)">Morocco (+212)</option>\n<option value="95" label="Myanmar (+95)">Myanmar (+95)</option>\n<option value="264" label="Namibia (+264)">Namibia (+264)</option>\n<option value="674" label="Nauru (+674)">Nauru (+674)</option>\n<option value="977" label="Nepal (+977)">Nepal (+977)</option>\n<option value="31" label="Netherlands (+31)">Netherlands (+31)</option>\n<option value="599" label="Netherlands Antilles (+599)">Netherlands Antilles (+599)</option>\n<option value="1869" label="Nevis (+1 869)">Nevis (+1 869)</option>\n<option value="687" label="New Caledonia (+687)">New Caledonia (+687)</option>\n<option value="64" label="New Zealand (64)">New Zealand (64)</option>\n<option value="505" label="Nicaragua (+505)">Nicaragua (+505)</option>\n<option value="227" label="Niger (+227)">Niger (+227)</option>\n<option value="234" label="Nigeria (+234)">Nigeria (+234)</option>\n<option value="683" label="Niue (+683)">Niue (+683)</option>\n<option value="672" label="Norfolk Island (+672)">Norfolk Island (+672)</option>\n<option value="1670" label="Northern Mariana Islands (+1 670)">Northern Mariana Islands (+1 670)</option>\n<option value="47" label="Norway (+47)">Norway (+47)</option>\n<option value="968" label="Oman (+968)">Oman (+968)</option>\n<option value="92" label="Pakistan (+92)">Pakistan (+92)</option>\n<option value="680" label="Palau (+680)">Palau (+680)</option>\n<option value="970" label="Palestinian Territory (+970)">Palestinian Territory (+970)</option>\n<option value="507" label="Panama (+507)">Panama (+507)</option>\n<option value="675" label="Papua New Guinea (+675)">Papua New Guinea (+675)</option>\n<option value="595" label="Paraguay (+595)">Paraguay (+595)</option>\n<option value="51" label="Peru (+51)">Peru (+51)</option>\n<option value="63" label="Philippines (+63)">Philippines (+63)</option>\n<option value="48" label="Poland (+48)">Poland (+48)</option>\n<option value="351" label="Portugal (+351)">Portugal (+351)</option>\n<option value="1787" label="Puerto Rico (+1 787)">Puerto Rico (+1 787)</option>\n<option value="1939" label="Puerto Rico (+1 939)">Puerto Rico (+1 939)</option>\n<option value="974" label="Qatar (+974)">Qatar (+974)</option>\n<option value="262" label="Reunion (+262)">Reunion (+262)</option>\n<option value="40" label="Romania (+40)">Romania (+40)</option>\n<option value="7" label="Russia (+7)">Russia (+7)</option>\n<option value="250" label="Rwanda (+250)">Rwanda (+250)</option>\n<option value="685" label="Samoa (+685)">Samoa (+685)</option>\n<option value="378" label="San Marino (+378)">San Marino (+378)</option>\n<option value="966" label="Saudi Arabia (+966)">Saudi Arabia (+966)</option>\n<option value="221" label="Senegal (+221)">Senegal (+221)</option>\n<option value="381" label="Serbia (+381)">Serbia (+381)</option>\n<option value="232" label="Sierra Leone (+232)">Sierra Leone (+232)</option>\n<option value="65" label="Singapore (+65)">Singapore (+65)</option>\n<option value="421" label="Slovakia (+421)">Slovakia (+421)</option>\n<option value="386" label="Slovenia (+386)">Slovenia (+386)</option>\n<option value="677" label="Solomon Islands (+677)">Solomon Islands (+677)</option>\n<option value="27" label="South Africa (+27)">South Africa (+27)</option>\n<option value="500" label="South Georgia and the South Sandwich Islands (+500)">South Georgia and the South Sandwich Islands (+500)</option>\n<option value="34" label="Spain (+34)">Spain (+34)</option>\n<option value="94" label="Sri Lanka (+94)">Sri Lanka (+94)</option>\n<option value="249" label="Sudan (+249)">Sudan (+249)</option>\n<option value="597" label="Suriname (+597)">Suriname (+597)</option>\n<option value="268" label="Swaziland (+268)">Swaziland (+268)</option>\n<option value="46" label="Sweden (+46)">Sweden (+46)</option>\n<option value="41" label="Switzerland (+41)">Switzerland (+41)</option>\n<option value="963" label="Syria (+963)">Syria (+963)</option>\n<option value="886" label="Taiwan (+886)">Taiwan (+886)</option>\n<option value="992" label="Tajikistan (+992)">Tajikistan (+992)</option>\n<option value="255" label="Tanzania (+255)">Tanzania (+255)</option>\n<option value="66" label="Thailand (+66)">Thailand (+66)</option>\n<option value="670" label="Timor Leste (+670)">Timor Leste (+670)</option>\n<option value="228" label="Togo (+228)">Togo (+228)</option>\n<option value="690" label="Tokelau (+690)">Tokelau (+690)</option>\n<option value="676" label="Tonga (+676)">Tonga (+676)</option>\n<option value="1868" label="Trinidad and Tobago (+1 868)">Trinidad and Tobago (+1 868)</option>\n<option value="216" label="Tunisia (+216)">Tunisia (+216)</option>\n<option value="90" label="Turkey (+90)">Turkey (+90)</option>\n<option value="993" label="Turkmenistan (+993)">Turkmenistan (+993)</option>\n<option value="1649" label="Turks and Caicos Islands (+1 649)">Turks and Caicos Islands (+1 649)</option>\n<option value="688" label="Tuvalu (+688)">Tuvalu (+688)</option>\n<option value="256" label="Uganda (+256)">Uganda (+256)</option>\n<option value="380" label="Ukraine (+380)">Ukraine (+380)</option>\n<option value="971" label="United Arab Emirates (+971)">United Arab Emirates (+971)</option>\n<option value="44" label="United Kingdom (+44)">United Kingdom (+44)</option>\n<option value="1" label="United States (+1)">United States (+1)</option>\n<option value="598" label="Uruguay (+598)">Uruguay (+598)</option>\n<option value="1340" label="U.S. Virgin Islands (+1 340)">U.S. Virgin Islands (+1 340)</option>\n<option value="998" label="Uzbekistan (+998)">Uzbekistan (+998)</option>\n<option value="678" label="Vanuatu (+678)">Vanuatu (+678)</option>\n<option value="58" label="Venezuela (+58)">Venezuela (+58)</option>\n<option value="84" label="Vietnam (+84)">Vietnam (+84)</option>\n<option value="1808" label="Wake Island (+1 808)">Wake Island (+1 808)</option>\n<option value="681" label="Wallis and Futuna (+681)">Wallis and Futuna (+681)</option>\n<option value="967" label="Yemen (+967)">Yemen (+967)</option>\n<option value="260" label="Zambia (+260)">Zambia (+260)</option>\n<option value="255" label="Zanzibar (+255)">Zanzibar (+255)</option>\n<option value="263" label="Zimbabwe (+263)">Zimbabwe (+263)</option>\n</select> <p id="errorwapp_countrycode" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div> <div class="col-sm-8"><div class="form-group"><label>Phone number</label> <input name="tel" placeholder="Phone number" required="required" class="form-control"> <p id="errorwapp_number" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div> <div class="col-sm-12"><div class="form-group"><textarea id="input7" placeholder="Message" class="form-control"></textarea> <p id="errorwapp_message" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div></div> <small class="form-text text-muted" style="margin-top: 0.75rem;">Scanning the QR code will send whatsapp message to the phone number.</small></div> <div class="form-group" style="display: none;"><h6 style="margin-bottom: 10px;">WI-FI</h6> <div class="row form-group"><div class="col-md-4"><label>Network name</label> <input type="text" name="ssid" placeholder="SSID" required="required" class="form-control"> <p id="errorssid" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div> <div class="col-md-4"><label>Network type</label> <select name="networktype" class="custom-select"><option value="WEP">WEP</option> <option value="WPA">WPA/WPA2</option> <option value="" selected="selected">No encryption</option></select> <p id="errornetworktype" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div> <div class="col-md-4"><label>Password</label> <input type="text" name="wifipass" placeholder="WI-FI password" class="form-control"> <p id="errorwifipass" class="small mb-0 mt-2" style="color: rgb(237, 80, 79); visibility: hidden; position: absolute;">This field is required.</p></div></div> <div class="form-check mb-3"><label class="form-check-label"><input type="checkbox" class="form-check-input"> <span class="form-check-sign"></span>Hidden
+<svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M5,1h1l0-1L4,0v1H3V0L0,0v0v0v2h1V1h0h1h1v1v0v0l0,0H2v1H1H0h0v3h0v0h2v0H1l0-2h1l0,1h1v1h3v0H5v0V5h1V4H5v1H3 l0-2l1,0v1h1V3h1V2H5V1z M5,3H4V2h1V3z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M2.5,3C2.8,3,3,2.8,3,2.5L3,2h1.5C4.8,2,5,1.8,5,1.5C5,1.2,4.8,1,4.5,1H4V0L2,0l0,2.5C2,2.8,2.2,3,2.5,3z M4,1 L4,1L4,1L4,1z"></path><path d="M5.5,3C5.2,3,5,3.2,5,3.5S5.2,4,5.5,4C5.8,4,6,3.8,6,3.5S5.8,3,5.5,3z"></path><path d="M0.5,1C0.8,1,1,0.8,1,0.5V0L0,0v0v0.5C0,0.8,0.2,1,0.5,1z"></path><path d="M4,4L4,4L3,4l0,0v0C2.4,4,2,4.4,2,5h0H1V2.5C1,2.2,0.8,2,0.5,2S0,2.2,0,2.5V5h0c0,0.6,0.4,1,1,1h2v0V5h1v0h0v1 l1,0V5h0C5,4.4,4.6,4,4,4z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M0.5,0.9l1,0c0.2,0,0.4-0.2,0.4-0.4c0-0.2-0.2-0.4-0.4-0.4l-1,0c-0.2,0-0.4,0.2-0.4,0.4S0.3,0.9,0.5,0.9z"></path> <path d="M1.5,1.9l2,0c0.2,0,0.4-0.2,0.4-0.4c0-0.2-0.2-0.4-0.4-0.4l-2,0c-0.2,0-0.4,0.2-0.4,0.4S1.3,1.9,1.5,1.9z"></path> <path d="M3.5,0.9c0.2,0,0.4-0.2,0.4-0.4c0-0.2-0.2-0.4-0.4-0.4S3.1,0.3,3.1,0.5C3.1,0.7,3.3,0.9,3.5,0.9z"></path> <path d="M4.5,2.1l-3,0c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4l3,0c0.2,0,0.4-0.2,0.4-0.4S4.7,2.1,4.5,2.1z"></path> <path d="M1.9,3.5c0-0.2-0.2-0.4-0.4-0.4H0v0.8h1.5C1.7,3.9,1.9,3.7,1.9,3.5z"></path> <path d="M4.5,3.1c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4S4.7,3.1,4.5,3.1z"></path> <path d="M5.9,4.5c0-0.2-0.2-0.4-0.4-0.4l-1,0c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4l1,0C5.7,4.9,5.9,4.7,5.9,4.5z"></path> <path d="M3.5,4.1l-2,0c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4l2,0c0.2,0,0.4-0.2,0.4-0.4S3.7,4.1,3.5,4.1z"></path> <path d="M2.5,5.1l-2,0c-0.2,0-0.4,0.2-0.4,0.4c0,0.2,0.2,0.4,0.4,0.4l2,0c0.2,0,0.4-0.2,0.4-0.4S2.7,5.1,2.5,5.1z"></path> <path d="M6,0.1l-1.5,0c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4l1.5,0h0L6,0.1L6,0.1z"></path> <path d="M5.1,5.5c0,0.2,0.2,0.4,0.4,0.4H6V5.1H5.5C5.3,5.1,5.1,5.3,5.1,5.5z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><rect x="4.1" y="3.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.1563 4.2076)" width="0.7" height="0.7"></rect><polygon points="1,1.5 1,1 1,1 2.5,1 3,0.5 2.5,0 0.5,0 0,0.5 0,1.5 0.5,2 "></polygon><path d="M3,2"></path><rect x="5.1" y="4.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.5707 5.2069)" width="0.7" height="0.7"></rect><polygon points="0.5,3 0,3.5 0,5.5 0.5,6 1,5.5 1,4 2,4 2,5.5 2.5,6 4.5,6 5,5.5 4.5,5 3,5 3,3.5 2.5,3"></polygon><polygon points="5.5,0 4.5,0 4,0.5 4,1 3.5,1 3,1.5 3,2.5 3.5,3 4,2.5 4,2 4.5,2 5,1.5 5,1 5.5,1 6,0.5"></polygon></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="3" width="1" height="1"></rect> <rect x="5" y="4" width="1" height="1"></rect> <polygon points="5,1 6,1 6,1 6,1 5.5,0.5 6,0 4,0 4,0 4,0 4,1 4,1 4,1 3,1 2.5,0.5 3,0 3,0 3,0 0,0 0,2 0,2 0,2 0.5,1.5 1,2 1,2 1,2 1,1 1,1 3,1 3,3 0,3 0,6 0,6 0,6 0.5,5.5 1,6 1,6 1,4 2,4 2,6 6,6 6,6 5,6 4.5,5.5 5,5 5,5 5,5 3,5 3,3 3.5,2.5 4,3 4,3 4,3 4,2 5,2 5,2 5,2"></polygon></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M5.5,4C5.2,4,5,4.2,5,4.5S5.2,5,5.5,5C5.8,5,6,4.8,6,4.5S5.8,4,5.5,4z"></path><path d="M0,2c0.6,0,1-0.4,1-1l1,0v0l0.2-0.1c0.2-0.1,0.4-0.1,0.6,0L3,1c0,0,0,0,0,0v0l0,0c0-0.6-0.4-1-1-1v0H0l0,1h0l0.1,0.2 c0.1,0.2,0.1,0.4,0,0.6L0,2z"></path><path d="M4.5,3C4.2,3,4,3.2,4,3.5S4.2,4,4.5,4C4.8,4,5,3.8,5,3.5S4.8,3,4.5,3z"></path><path d="M3,2L3,2L3,2l0.1,0.2c0.1,0.2,0.1,0.4,0,0.6L3,3c0.6,0,1-0.4,1-1l0,0h0h0.5C4.8,2,5,1.8,5,1.5V1l0.2-0.1 c0.2-0.1,0.4-0.1,0.6,0L6,1c0-0.6-0.4-1-1-1l0,0h0H4.5C4.2,0,4,0.2,4,0.5V1h0H3.5C3.2,1,3,1.2,3,1.5V2z"></path><path d="M4,5L4,5L3,5v0h0l0-1.5C3,3.2,2.8,3,2.5,3l-1,0C1.2,3,1,3.2,1,3.5L1,4l0,0L0.8,4.1c-0.2,0.1-0.4,0.1-0.6,0L0,4 c0,0.6,0.4,1,1,1l0,0l1,0l0,0.5C2,5.8,2.2,6,2.5,6L4,6l0,0v0l0.2-0.1c0.2-0.1,0.4-0.1,0.6,0L5,6C5,5.4,4.6,5,4,5z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M5.2,4C5,4,4.9,4.3,5.1,4.5C5.3,4.8,5.6,5,5.8,5C6,5,6.1,4.7,5.9,4.5C5.7,4.2,5.4,4,5.2,4z"></path> <path d="M5,0.9C5,0.9,5.1,1,5.1,1H6V0C5.8,0,5,0.6,5,0.9z"></path> <path d="M5.9,2H4l0,0h0V1l0,0h0c0-0.2-0.6-1-0.9-1C3.1,0,3,0.1,3,0.1v2.5C3,2.9,3.1,3,3.3,3L5,3v0l0,0c0.2,0,1-0.6,1-0.9 C6,2.1,5.9,2,5.9,2z"></path> <path d="M3.7,4H2.3C2.1,4,2,4.1,2,4.3V5h0l0,0H1v0V4h0l0,0c0-0.2-0.6-1-0.9-1C0.1,3,0,3.1,0,3.1v2.5C0,5.9,0.1,6,0.3,6L4,6V4.3 C4,4.1,3.9,4,3.7,4z"></path> <path d="M0.1,1H1v0v1h0l0,0c0,0.2,0.6,1,0.9,1C1.9,3,2,2.9,2,2.9L2,0H1v0C0.8,0,0,0.6,0,0.9C0,0.9,0.1,1,0.1,1z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><circle cx="0.5" cy="0.5" r="0.5"></circle> <circle cx="1.5" cy="0.5" r="0.5"></circle> <circle cx="3.5" cy="0.5" r="0.5"></circle> <circle cx="4.5" cy="0.5" r="0.5"></circle> <circle cx="0.5" cy="1.5" r="0.5"></circle> <circle cx="4.5" cy="1.5" r="0.5"></circle> <circle cx="5.5" cy="1.5" r="0.5"></circle> <circle cx="0.5" cy="2.5" r="0.5"></circle> <circle cx="1.5" cy="2.5" r="0.5"></circle> <circle cx="0.5" cy="3.5" r="0.5"></circle> <circle cx="1.5" cy="3.5" r="0.5"></circle> <circle cx="4.5" cy="3.5" r="0.5"></circle> <circle cx="5.5" cy="3.5" r="0.5"></circle> <circle cx="2.5" cy="4.5" r="0.5"></circle> <circle cx="1.5" cy="5.5" r="0.5"></circle> <circle cx="3.5" cy="5.5" r="0.5"></circle> <circle cx="5.5" cy="5.5" r="0.5"></circle></svg></a></div></div></div> <div class="col-12 p-0"><h6 class="mb-3 mt-4">Marker border</h6></div> <div class="col-12 mb-2 p-0"><div class="d-flex flex-wrap" style="gap: 10px;"><div style="flex-grow: 1;"><a class="hoversquares activesquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M4.5,14h5.1C12,14,14,12,14,9.6V4.5C14,2,12,0,9.5,0H4.4C2,0,0,2,0,4.4v5.1C0,12,2,14,4.5,14z M12,4.8v4.4 c0,1.5-1.3,2.8-2.8,2.8H4.8C3.2,12,2,10.8,2,9.2V4.8C2,3.3,3.3,2,4.8,2h4.4C10.8,2,12,3.2,12,4.8z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,7L0,7c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0c0-3.9-3.1-7-7-7h0C3.1,0,0,3.1,0,7z M7,12L7,12c-2.8,0-5-2.2-5-5v0 c0-2.8,2.2-5,5-5h0c2.8,0,5,2.2,5,5v0C12,9.8,9.8,12,7,12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0l0,7c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0c0-3.9-3.1-7-7-7H0z M7,12L7,12c-2.8,0-5-2.2-5-5V2h5c2.8,0,5,2.2,5,5v0 C12,9.8,9.8,12,7,12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0l0,7c0,3.9,3.1,7,7,7h7V7c0-3.9-3.1-7-7-7H0z M12,12H7c-2.8,0-5-2.2-5-5v0c0-2.8,2.2-5,5-5h0c2.8,0,5,2.2,5,5V12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0l0,7c0,3.9,3.1,7,7,7h7V7c0-3.9-3.1-7-7-7H0z M7,12L7,12c-2.8,0-5-2.2-5-5v0c0-2.8,2.2-5,5-5h0c2.8,0,5,2.2,5,5v0 C12,9.8,9.8,12,7,12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0l0,14h14V0H0z M7,12L7,12c-2.8,0-5-2.2-5-5v0c0-2.8,2.2-5,5-5h0c2.8,0,5,2.2,5,5v0C12,9.8,9.8,12,7,12z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,0v9.6C0,12,2,14,4.4,14h5.1C12,14,14,12,14,9.6V4.4C14,2,12,0,9.6,0H0z M9.2,12H4.8C3.3,12,2,10.7,2,9.2V2h7.2 C10.7,2,12,3.3,12,4.8v4.4C12,10.7,10.7,12,9.2,12z"></path></svg></a></div></div></div> <div class="col-12 p-0"><h6 class="mb-3 mt-4">Marker center</h6></div> <div class="col-12 p-0"><div class="d-flex flex-wrap" style="gap: 10px;"><div style="flex-grow: 1;"><a class="hoversquares activesquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><rect width="6" height="6"></rect></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M6,1.7v2.7C6,5.2,5.2,6,4.3,6H1.7C0.7,6,0,5.3,0,4.3V1.7C0,0.8,0.8,0,1.7,0h2.7C5.3,0,6,0.7,6,1.7z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><circle cx="3" cy="3" r="3"></circle></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M3,6L3,6C1.3,6,0,4.7,0,3l0-3l3,0c1.7,0,3,1.3,3,3v0C6,4.7,4.7,6,3,6z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><polygon points="3,0 3.4,0.7 4,0.2 4.1,0.9 4.9,0.7 4.8,1.5 5.6,1.5 5.2,2.2 5.9,2.5 5.3,3 5.9,3.5 5.2,3.8 5.6,4.5 4.8,4.5 4.9,5.3 4.1,5.1 4,5.8 3.4,5.3 3,6 2.5,5.3 1.9,5.8 1.8,5.1 1,5.3 1.1,4.5 0.4,4.5 0.7,3.8 0,3.5 0.6,3 0,2.5 0.7,2.2 0.4,1.5 1.1,1.5 1,0.7 1.8,0.9 1.9,0.2 2.5,0.7"></polygon></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M3.2,0.3l0.6,1.3C4,1.8,4.1,1.9,4.3,1.9l1.4,0.2c0.2,0,0.3,0.3,0.2,0.5l-1,1C4.7,3.7,4.7,3.9,4.7,4.1L5,5.5 c0,0.2-0.2,0.4-0.4,0.3L3.3,5.2c-0.2-0.1-0.4-0.1-0.6,0L1.4,5.8C1.2,5.9,1,5.8,1,5.5l0.2-1.4c0-0.2,0-0.4-0.2-0.5l-1-1 C-0.1,2.4,0,2.2,0.2,2.1l1.4-0.2c0.2,0,0.4-0.2,0.5-0.3l0.6-1.3C2.9,0.1,3.1,0.1,3.2,0.3z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><rect x="0.9" y="0.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.2426 3)" width="4.2" height="4.2"></rect></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="38" height="38" viewBox="0 0 6 6" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><polygon points="6,1.5 4.5,1.5 4.5,0 1.5,0 1.5,1.5 0,1.5 0,4.5 1.5,4.5 1.5,6 4.5,6 4.5,4.5 6,4.5"></polygon></svg></a></div></div></div></div></div></div></div> <div class="card card-sm card-body shadow-sm" style="border: 0.1rem solid rgb(227, 236, 242);"><a href="#panel-5" data-target="#panel-5" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-1" class="accordion-panel-header"><span class="icon-title h6 mb-0 font-weight-bold"><i class="fas fa-images"></i>Logo</span> <span class="icon"><i class="fas fa-plus"></i></span></a> <div id="panel-5" class="collapse"><div class="pt-3"><div class="col-12 pt-2 p-0"><h6 style="margin-bottom: 10px;">Upload Logo</h6> <div class="custom-file" style="margin-bottom: 20px;"><input type="file" multiple="multiple" accept=".jpg, .jpeg, .png, .svg" name="image" id="customFile" class="custom-file-input"> <label for="customFile" class="custom-file-label">Choose file</label></div> <!----> <h6 style="margin-bottom: 10px;">Or choose from here</h6> <div class="d-flex flex-wrap" style="gap: 10px;"><div style="flex-grow: 1;"><a class="hoversquares activesquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/x.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/01-link-b.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/02-location.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/03-email.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/04-whatsapp.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/05-wifi.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/06-vcard.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/07-paypal.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/08-btc.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/scan-me-frame.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/scan-me.png" class="img-fluid" style="width: 50px; height: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/scanning-qr-code.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/menu.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/menu-fork.png" class="img-fluid" style="width: 50px;"></a></div> </div> <div class="custom-control custom-switch mt-2"><input type="checkbox" id="nologo-bg" name="no_logo_bg" class="custom-control-input" checked="checked"> <label for="nologo-bg" class="custom-control-label" style="font-weight: 700;">Remove background behind Logo</label></div></div></div></div></div> <div class="card card-sm card-body shadow-sm mb-0" style="border: 0.1rem solid rgb(227, 236, 242);"><a href="#panel-6" data-target="#panel-6" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="panel-6" class="accordion-panel-header"><span class="icon-title h6 mb-0 font-weight-bold"><i class="fas fa-crop-alt"></i>Frames <span class="badge badge-md bg-success ms-1" style="display: inline; margin-left: 10px; color: rgb(255, 255, 255) !important;">NEW!</span></span> <span class="icon"><i class="fas fa-plus"></i></span></a> <div id="panel-6" class="collapse"><div class="pt-3"><div class="pt-2"><div class="col-12 mb-2 p-0"><div class="d-flex flex-wrap" style="gap: 10px;"><div style="flex-grow: 1;"><a class="hoversquares activesquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><img src="QR.io_%20QR%20Code%20Generator%20_%20Create%20QR%20Codes_files/x_002.png" class="img-fluid" style="width: 50px;"></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 29" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M22.7,0H1.3C0.6,0,0,0.6,0,1.3v25.3C0,27.4,0.6,28,1.3,28h21.3c0.7,0,1.3-0.6,1.3-1.3V1.3C24,0.6,23.4,0,22.7,0 z M23,22c0,0.6-0.5,1-1,1H2c-0.6,0-1-0.5-1-1V2c0-0.6,0.5-1,1-1h20c0.6,0,1,0.5,1,1V22z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 29" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.3,28L22.6,28c0.7,0,1.3-0.6,1.3-1.3L24,1.4c0-0.7-0.6-1.3-1.3-1.3L1.4,0C0.7,0,0.1,0.6,0,1.3L0,26.6 C-0.1,27.4,0.5,28,1.3,28z M1,6c0-0.6,0.5-1,1-1L22,5c0.6,0,1,0.5,1,1L23,26c0,0.6-0.5,1-1,1L2,27c-0.6,0-1-0.5-1-1L1,6z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 31" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.3,24l21.3,0c0.7,0,1.3-0.6,1.3-1.3l0-21.3C24,0.6,23.4,0,22.7,0L1.3,0C0.6,0,0,0.6,0,1.3l0,21.3 C0,23.4,0.6,24,1.3,24z M1,2c0-0.6,0.5-1,1-1l20,0c0.6,0,1,0.5,1,1v20c0,0.6-0.5,1-1,1L2,23c-0.6,0-1-0.5-1-1V2z"></path><path d="M1,30h22c0.5,0,1-0.4,1-1v-3c0-0.5-0.4-1-1-1H13l-1-1l-1,1H1c-0.5,0-1,0.4-1,1v3C0,29.6,0.4,30,1,30z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 31" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M22.7,6L1.3,6C0.6,6,0,6.6,0,7.3l0,21.3C0,29.4,0.6,30,1.3,30l21.3,0c0.7,0,1.3-0.6,1.3-1.3l0-21.3 C24,6.6,23.4,6,22.7,6z M23,28c0,0.6-0.5,1-1,1L2,29c-0.6,0-1-0.5-1-1V8c0-0.6,0.5-1,1-1l20,0c0.6,0,1,0.5,1,1V28z"></path><path d="M23,0H1C0.4,0,0,0.4,0,1v3c0,0.5,0.4,1,1,1h10l1,1l1-1h10c0.5,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 28" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M24,21h-1.7V1.7H1.7V21H0l1,2l-1,2h1v2h22v-2h1l-1-2L24,21z M2,2h20v19v1H2v-1V2z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 28" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0,6h1.7v19.3h20.7V6H24l-1-2l1-2h-1V0H1v2H0l1,2L0,6z M22,25H2V6V5h20v1V25z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 25.5" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M17.6,0H6.4c-1,0-1.8,0.8-1.8,1.8v20.4c0,1,0.8,1.8,1.8,1.8h11.1c1,0,1.8-0.8,1.8-1.8V1.8C19.4,0.8,18.6,0,17.6,0z M11.2,2.3h2.7c0.1,0,0.2,0.1,0.2,0.2S14,2.7,13.9,2.7h-2.7c-0.1,0-0.2-0.1-0.2-0.2S11.1,2.3,11.2,2.3z M10.1,2.3 c0.1,0,0.2,0.1,0.2,0.2s-0.1,0.2-0.2,0.2c-0.1,0-0.2-0.1-0.2-0.2S10,2.3,10.1,2.3z M19,19H5V5h14V19z"></path></svg></a></div> <div style="flex-grow: 1;"><a class="hoversquares" style="width: 100%; text-align: center; background: rgb(255, 255, 255); border: 2px solid rgb(221, 221, 221); border-radius: 0.5rem; padding: 10px; display: inline-block;"><svg width="50" height="50" viewBox="0 0 24 23.9" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M4.5,4.5L4.5,4.5L4.5,4.5l0,17.2c0,0.3,0.3,0.6,0.6,0.6h13.8c0.3,0,0.6-0.3,0.6-0.6V4.5H4.5z M19,18.6c0,0.2-0.2,0.4-0.4,0.4H5.4C5.2,19,5,18.8,5,18.6V5.4C5,5.2,5.2,5,5.4,5h13.1C18.8,5,19,5.2,19,5.4V18.6z"></path><path d="M19.1,0.1L4.2,1.7l0.3,2.8l14.9-1.6L19.1,0.1z M6.8,3.8L4.9,4l1.7-2.1l1.9-0.2L6.8,3.8z M10.5,3.4L8.6,3.6l1.7-2.1l1.9-0.2 L10.5,3.4z M14.2,3l-1.9,0.2L14,1.1l1.9-0.2L14.2,3z M18,2.6l-1.9,0.2l1.7-2.1l0.9-0.1l0.1,0.9L18,2.6z"></path></svg></a></div></div></div> <div class="col-12 d-flex flex-wrap form-group p-0 mb-0 focused"><div class="col-6 pl-0"><label>Frame Phrase</label> <input type="text" name="framelabel" required="required" class="form-control" style="box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 30px;" value="SCAN ME"></div> <div class="col-6 pr-0"><label>Phrase Font</label> <select name="label_font" class="custom-select"><option value="Arial, Helvetica, sans-serif" style="font-family: Arial, Helvetica, sans-serif;" selected="selected">
+                                          Sans-Serif
+                                      </option> <option value="'Times New Roman', Times, serif" style="font-family: &quot;Times New Roman&quot;, Times, serif;">
+                                          Serif
+                                      </option> <option value="'Courier New', Courier, monospace" style="font-family: &quot;Courier New&quot;, Courier, monospace;">
+                                          Monospace
+                                      </option></select></div> <div class="col-12 p-0" style="margin-top: 20px;"><label>Frame Color</label> <div class="row"><div class="col-9"><input type="text" placeholder="eg. #151f42" class="form-control" value="#000000"></div> <div class="col-3 pl-0"><input type="color" style="height: 100%; border: 0.1rem solid rgb(227, 236, 242); background: rgb(255, 255, 255); width: 100%;" value="#000000"></div></div></div></div></div></div></div></div></div></div></div></div> <div id="alturacolumn" class="col-generator-4" style="padding: 0px;"><div class="card shadow-soft border-light mb-4 mb-md-0 border-of-generator-index-2" style="height: 100%;"><div class="card-body p-4 p-sm-5"><div class="quetesiga stuckenelfinal" style="position:absolute;top:199px;"><div class="resultholder" style="border: 1px solid rgb(221, 221, 221); border-radius: 5px; padding: 2px;"><div style="margin: 0px auto; text-align: center;"><a style="cursor: initial;"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xlink="http://www.w3.org/1999/xlink" style="max-width: 100%;height: auto;" width="990" height="990" viewBox="0 0 990 990">
+<rect width="990" height="990" fill="#ffffff" x="0" y="0"></rect>
+<g fill="#000000">
+<g transform="translate(220,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,44) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,66) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,88) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,110) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,132) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,154) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,176) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,198) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,220) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,242) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,264) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,286) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,308) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,330) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,352) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,374) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,396) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,418) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,440) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,462) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,484) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,506) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,528) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,550) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,572) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,594) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(88,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,616) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,638) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,660) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(66,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,682) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(110,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,704) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(418,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,726) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(44,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(132,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(154,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(176,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(198,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,748) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,770) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,792) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,814) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(880,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,836) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(374,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(572,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(660,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(924,858) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(220,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(308,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(528,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,880) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(264,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(330,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(462,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(484,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(704,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(748,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(902,902) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(242,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(286,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(352,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(396,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(440,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(506,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(550,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(594,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(616,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(638,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(682,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(726,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(770,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(792,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(814,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(836,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+<g transform="translate(858,924) scale(3.7766666666667)"><rect width="6" height="6"></rect></g>
+</g><g><g transform="translate(44,44)" fill="#000000"><g transform="scale(11)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"></path></g></g>
+<g transform="translate(792,44)" fill="#000000"><g transform="scale(11)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"></path></g></g>
+<g transform="translate(44,792)" fill="#000000"><g transform="scale(11)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"></path></g></g>
+<g transform="translate(88,88)" fill="#000000"><g transform="scale(11)"><rect width="6" height="6"></rect></g></g>
+<g transform="translate(836,88)" fill="#000000"><g transform="scale(11)"><rect width="6" height="6"></rect></g></g>
+<g transform="translate(88,836)" fill="#000000"><g transform="scale(11)"><rect width="6" height="6"></rect></g></g></g>
+</svg>
