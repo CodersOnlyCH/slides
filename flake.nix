@@ -20,6 +20,7 @@
           default = pkgs.mkShell {};
           presentation = pkgs.mkShell {
             packages = with pkgs; [
+              marp-cli
               reveal-md
             ];
           };
