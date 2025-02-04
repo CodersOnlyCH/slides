@@ -25,6 +25,7 @@
             ];
           };
         };
+        packages = pkgs.callPackage ./packages.nix {};
       };
     };
 }
