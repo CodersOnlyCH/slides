@@ -9,9 +9,14 @@ in {
     pname = "coersonly-gv";
     version = "2025";
     src = ./.;
-    buildInputs = with pkgs; [marp-cli];
+    buildInputs = with pkgs; [
+      codersonly-marp-theme
+      marp-cli
+    ];
     buildPhase = ''
-      marp 2025.md
+      marp --theme-set ${codersonly-marp-theme} \
+           --theme codersonly \
+            2025.md
     '';
     installPhase = ''
       mkdir -p $out
