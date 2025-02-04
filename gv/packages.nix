@@ -3,10 +3,10 @@
   stdenv,
   ...
 }: let
-  codersonly-marp-theme = pkgs.callPackage ../marp/themes/codersonly/package.nix {};
+  inherit (pkgs.callPackage ../marp/themes/packages.nix {}) codersonly-marp-theme;
 in {
   gv-2025 = stdenv.mkDerivation {
-    pname = "coersonly-gv";
+    pname = "codersonly-gv";
     version = "2025";
     src = ./.;
     buildInputs = with pkgs; [
@@ -20,6 +20,7 @@ in {
     '';
     installPhase = ''
       mkdir -p $out
+      cp ${codersonly-marp-theme}/* $out
       cp 2025.html $out
     '';
   };
