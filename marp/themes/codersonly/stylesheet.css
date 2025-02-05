@@ -15,22 +15,14 @@
 }
 
 :root {
-  --h1-color: #9d0;
+  --color-canvas-default: #000;
+  --color-canvas-subtle: #222;
   --color-fg-default: #9d0;
+  --color-border-default: var(--color-fg-default);
+  --h1-color: var(--color-fg-default);
   background: #000;
   font-family: 'siruca';
-  text-shadow: 0 0 12px #9d0;
-}
-
-table,
-table thead,
-table tr,
-table th,
-table tbody,
-table td
-{
-  border-color: var(--color-fg-default);
-  background: #000;
+  text-shadow: 0 0 12px var(--color-fg-default);
 }
 
 section.centered p {
