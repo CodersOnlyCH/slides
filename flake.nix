@@ -14,7 +14,9 @@
         "x86_64-darwin"
         "x86_64-linux"
       ];
-      perSystem = {pkgs, ...}: {
+      perSystem = {pkgs, ...}: let
+        packages = pkgs.callPackage ./packages.nix {};
+      in {
         devShells = {
           default = pkgs.mkShell {};
           presentation = pkgs.mkShell {
@@ -24,7 +26,9 @@
             ];
           };
         };
-        packages = pkgs.callPackage ./packages.nix {};
+        packages = {
+          inherit (packages) assets codersonly-marp-theme gv-2025 meetup-2024-11-12 socrates-2025;
+        };
       };
     };
 }

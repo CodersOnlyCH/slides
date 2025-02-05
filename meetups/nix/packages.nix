@@ -5,8 +5,8 @@
 }: let
   inherit (pkgs.callPackage ../../marp/themes/packages.nix {}) codersonly-marp-theme;
 in {
-  nix-meetup-2024-11-12 = stdenv.mkDerivation {
-    pname = "nix-meetup";
+  meetup-2024-11-12 = stdenv.mkDerivation {
+    pname = "meetup";
     version = "2024.11.12";
     src = ./.;
     buildInputs = with pkgs; [
