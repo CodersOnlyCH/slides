@@ -14,9 +14,7 @@
         "x86_64-darwin"
         "x86_64-linux"
       ];
-      perSystem = {pkgs, ...}: let
-        packages = pkgs.callPackage ./packages.nix {};
-      in {
+      perSystem = {pkgs, ...}: {
         devShells = {
           default = pkgs.mkShell {};
           presentation = pkgs.mkShell {
@@ -26,8 +24,27 @@
             ];
           };
         };
-        packages = {
-          inherit (packages) assets codersonly-marp-theme gv-2025 meetup-2024-11-12 socrates-2025;
+        packages = with pkgs; let
+          assets = stdenv.mkDerivation {
+            pname = "assets";
+            version = "2025";
+            src = ./assets;
+            buildPhase = '''';
+            installPhase = ''
+              mkdir -p $out
+              cp -r * $out
+            '';
+          };
+          gv = callPackage ./gv/packages.nix {};
+          marp-themes = callPackage ./marp/themes/packages.nix {};
+          meetups = callPackage ./meetups/nix/packages.nix {};
+          socrates = callPackage ./socrates/packages.nix {};
+        in {
+          inherit assets;
+          inherit (gv) gv-2025;
+          inherit (marp-themes) codersonly-marp-theme;
+          inherit (meetups) meetup-2024-11-12 meetup-2025-03-05;
+          inherit (socrates) socrates-2025;
         };
       };
     };
