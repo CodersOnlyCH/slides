@@ -114,12 +114,11 @@ code {
   justify-content: center;
 }
 
-.what-we-do-box {
+.box {
   background-color: var(--color-alien-hue-3);
   padding: 1em;
 }
 
-.what-we-do-box h2 {
+.box h2 {
   margin-top: 0;
 }
-

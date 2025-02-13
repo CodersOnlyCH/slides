@@ -23,8 +23,8 @@ pageRef = '/verein'
 weight = 40
 
 [[menus.main]]
-name = 'About'
-pageRef = '/about-us'
+name = 'Sponsors'
+pageRef = '/sponsors'
 weight = 50
 
 [module]

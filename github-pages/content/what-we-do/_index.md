@@ -10,30 +10,30 @@ We are a community of software developers who find that even with decades of exp
 So if you’re also passionate about code, you’ve come to the right place.
 
 {{< grid >}}
-  {{< what-we-do-box title="Coders Monthly" >}}
+  {{< box title="Coders Monthly" >}}
   ...is a regular gathering of programmers interested in honing their craft. Join us for an evening of fun and informal discussions.
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 
-  {{< what-we-do-box title="Software Craft Study Group" >}}
+  {{< box title="Software Craft Study Group" >}}
   Deepen your understanding of software craftsmanship through collaborative study, vivid discussions and hands-on exercises.
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 
-  {{< what-we-do-box title="Regular Meetups" >}}
+  {{< box title="Regular Meetups" >}}
 
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 
-  {{< what-we-do-box title="Book Study Clubs" >}}
+  {{< box title="Book Study Clubs" >}}
   Every now and then, a member gathers some like-minded folks, grabs a great book, and starts a collective learning journey.
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 
-  {{< what-we-do-box title="Girl Coders Ger Together" >}}
+  {{< box title="Girl Coders Ger Together" >}}
   ...a meetup for women and gender minority programmers.
   We meet to code together and enjoy the company of fellow coding people.
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 
-  {{< what-we-do-box title="Yearly Events" >}}
+  {{< box title="Yearly Events" >}}
   Who hasn't heard of Global Day of Coderetreat and SoCraTes Day?
   Well, guess who's organizing those events in Switzerland?
   Yours truly!
-  {{< /what-we-do-box >}}
+  {{< /box >}}
 {{</grid>}}
