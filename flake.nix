@@ -17,6 +17,11 @@
       perSystem = {pkgs, ...}: {
         devShells = {
           default = pkgs.mkShell {};
+          hugo = pkgs.mkShell {
+            packages = with pkgs; [
+              hugo
+            ];
+          };
           presentation = pkgs.mkShell {
             packages = with pkgs; [
               marp-cli
