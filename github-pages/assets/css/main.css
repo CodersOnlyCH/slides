@@ -1,6 +1,13 @@
 @font-face {
+  font-family: 'pragmata-mono';
+  src: url('/fonts/PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'pragmata';
-  src: url('fonts/PragmataPro_Mono_R_liga_0828.woff2') format('woff2');
+  src: url('/fonts/PragmataProR_liga_0830.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -39,7 +46,6 @@
   --color-border-default: var(--color-alien-hue-1);
 
   background: var(--color-canvas-default);
-  font-family: 'siruca';
   text-shadow: 0 0 12px var(--color-fg-default);
 }
 
@@ -86,8 +92,12 @@ a {
   text-shadow: 0 0 12px var(--color-fg-accent);
 }
 
-code {
+p {
   font-family: 'pragmata';
+}
+
+code {
+  font-family: 'pragmata-mono';
   text-shadow: 0 0 3px var(--color-fg-default);
 }
 
