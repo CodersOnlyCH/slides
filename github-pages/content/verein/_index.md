@@ -27,7 +27,25 @@ Account Holder: Coders Only, 8000 Zürich
 {{< /box >}}
 
 {{< box title="Documents" >}}
-- Bylaws (Statuten)
-- Founding Charter (Gründungsurkunde)
+```shell
+❯ tree documents
+documents
+├── founding-charter.pdf
+├── bylaws.pdf
+├── 2025-01-21
+│   ├── slides.pdf
+│   └── protocol.pdf
+├── 2024-09-05
+│   ├── slides.pdf
+│   └── protocol.pdf
+├── 2023-04-20
+│   ├── slides.pdf
+│   └── protocol.pdf
+├── 2022-06-08
+│   ├── slides.pdf
+│   └── protocol.pdf
+└── 2020-06-08
+    └── protocol.pdf
+```
 {{< /box >}}
 {{</grid>}}

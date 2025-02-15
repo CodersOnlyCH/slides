@@ -92,13 +92,23 @@ a {
   text-shadow: 0 0 12px var(--color-fg-accent);
 }
 
-p {
+main :is(p, li, span) {
   font-family: 'pragmata';
+}
+
+main img {
+ width: 100%;
+ height: auto;
 }
 
 code {
   font-family: 'pragmata-mono';
   text-shadow: 0 0 3px var(--color-fg-default);
+  line-height: normal;
+}
+
+pre {
+  line-height: normal;
 }
 
 .sponsor-grid {
@@ -115,6 +125,17 @@ code {
   width: 100%;
   height: auto;
   object-fit: contain;
+}
+
+.tags ul {
+  display: flex;
+  gap: 20px;
+  padding: none;
+  padding-inline-start: 0;
+}
+
+.tags ul li:first-child {
+  list-style: none;
 }
 
 .grid {

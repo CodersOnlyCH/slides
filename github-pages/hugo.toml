@@ -31,3 +31,7 @@ weight = 50
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+[markup]
+  [markup.highlight]
+    noClasses = false

@@ -1,7 +1,8 @@
 +++
-title = 'Posts'
+title = 'Past Events'
 date = 2023-01-01T08:30:00-07:00
 draft = false
 +++
 
-Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.
+Unfortunately we can't keep track of all of the good moments, since there are way too many.
+But look at all the major events we have had in the past.

@@ -19,14 +19,14 @@ So if you’re also passionate about code, you’ve come to the right place.
   {{< /box >}}
 
   {{< box title="Regular Meetups" >}}
-
+  A couple of times a year we meet up for workshops and talks on diverse topics.
   {{< /box >}}
 
   {{< box title="Book Study Clubs" >}}
   Every now and then, a member gathers some like-minded folks, grabs a great book, and starts a collective learning journey.
   {{< /box >}}
 
-  {{< box title="Girl Coders Ger Together" >}}
+  {{< box title="Girl Coders Get Together" >}}
   ...a meetup for women and gender minority programmers.
   We meet to code together and enjoy the company of fellow coding people.
   {{< /box >}}
