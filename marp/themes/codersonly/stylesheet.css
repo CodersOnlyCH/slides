@@ -3,8 +3,15 @@
 @import 'default';
 
 @font-face {
-  font-family: 'pragmata';
+  font-family: 'pragmata-mono';
   src: url('PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pragmata';
+  src: url('PragmataProR_liga_0830.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,8 +41,12 @@
   --color-prettylights-syntax-string: #D805FF;
   --color-prettylights-syntax-variable: #FF5B05;
   background: #000;
-  font-family: 'siruca';
+  font-family: 'pragmata';
   text-shadow: 0 0 12px var(--color-fg-default);
+}
+
+h1, h2, h3 {
+  font-family: 'siruca';
 }
 
 a {
@@ -43,7 +54,7 @@ a {
 }
 
 code {
-  font-family: 'pragmata';
+  font-family: 'pragmata-mono';
   text-shadow: 0 0 3px var(--color-fg-default);
 }
 
