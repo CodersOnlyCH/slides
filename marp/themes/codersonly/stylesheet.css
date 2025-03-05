@@ -29,33 +29,71 @@
 }
 
 :root {
+  --color-main: #2CFF05;
+  --color-alien-hue-1: #45CC2D;
+  --color-alien-hue-2: #45663F;
+  --color-alien-hue-3: #2B332A;
+  --color-80s-disco-1: #D405FF;
+  --color-80s-disco-2: #FF0522;
+  --color-80s-disco-3: #871B3F;
+  --color-square-1: #05A9FF;
+  --color-square-2: #D805FF;
+  --color-square-3: #FF5B05;
+  --color-split-1: #5B05FF;
+  --color-split-2: #FF05A9;
+  --color-monochromatic-1: #20D000;
+  --color-monochromatic-2: #58FF39;
+
   --color-canvas-default: #000;
-  --color-canvas-subtle: #2B332A;
+  --color-canvas-subtle: var(--color-background-default);
   --color-accent-fg: #05A9FF;
-  --color-fg-default: #9d0;
-  --color-border-default: var(--color-fg-default);
+  --color-fg-default: #2CFF05;
+  --color-border-default: var(--color-alien-hue-1);
   --h1-color: var(--color-fg-default);
-  --color-prettylights-syntax-comment: #5B05FF;
-  --color-prettylights-syntax-constant: #05A9FF;
-  --color-prettylights-syntax-key: #FF052C;
+
+  --color-prettylights-syntax-comment: var(--color-80s-disco-1);
+  --color-prettylights-syntax-constant: var(--color-square-1);
+  --color-prettylights-syntax-key: var(--color-square-2);
   --color-prettylights-syntax-string: #D805FF;
   --color-prettylights-syntax-variable: #FF5B05;
   background: #000;
   font-family: 'pragmata';
-  text-shadow: 0 0 12px var(--color-fg-default);
+  text-shadow: 0 0 12px var(--color-alien-hue-1);
+}
+
+section {
+  color: var(--color-alien-hue-1);
 }
 
 h1, h2, h3 {
   font-family: 'siruca';
 }
 
+h1 {
+  color: var(--color-fg-default);
+  text-shadow: 0 0 12px var(--color-fg-default);
+}
+
+h2, h3 {
+  color: var(--color-80s-disco-1);
+  text-shadow: 0 0 12px var(--color-80s-disco-1);
+}
+
 a {
   text-shadow: 0 0 12px var(--color-accent-fg);
 }
 
+section :is(pre, marp-pre) {
+  border-radius: 0;
+}
+
 code {
   font-family: 'pragmata-mono';
-  text-shadow: 0 0 3px var(--color-fg-default);
+  background-color: var(--color-canvas-default);
+  color: var(--color-aluen-hue-1);
+  text-shadow: 0 0 12px var(--color-alien-hue-1);
+  border: 1px solid var(--color-alien-hue-1);
+  border-radius: 0;
 }
 
 code .hljs-attr {
