@@ -3,46 +3,31 @@
   stdenv,
   ...
 }: let
-  inherit (pkgs.callPackage ../../marp/themes/packages.nix {}) codersonly-marp-theme;
+  mkSlides = {date, ...}: let
+    inherit (pkgs.callPackage ../../marp/themes/packages.nix {}) codersonly-marp-theme;
+    version = builtins.replaceStrings ["-"] ["."] date;
+  in
+    stdenv.mkDerivation {
+      inherit version;
+      pname = "meetup";
+      src = ./.;
+      buildInputs = with pkgs; [
+        codersonly-marp-theme
+        marp-cli
+      ];
+      buildPhase = ''
+        marp --theme-set ${codersonly-marp-theme} \
+             --theme codersonly \
+              ${date}.md
+      '';
+      installPhase = ''
+        mkdir -p $out
+        cp ${codersonly-marp-theme}/* $out
+        cp -r assets $out
+        cp ${date}.html $out
+      '';
+    };
 in {
-  meetup-2024-11-12 = stdenv.mkDerivation {
-    pname = "meetup";
-    version = "2024.11.12";
-    src = ./.;
-    buildInputs = with pkgs; [
-      codersonly-marp-theme
-      marp-cli
-    ];
-    buildPhase = ''
-      marp --theme-set ${codersonly-marp-theme} \
-           --theme codersonly \
-            2024-11-12.md
-    '';
-    installPhase = ''
-      mkdir -p $out
-      cp ${codersonly-marp-theme}/* $out
-      cp -r assets $out
-      cp 2024-11-12.html $out
-    '';
-  };
-  meetup-2025-03-05 = stdenv.mkDerivation {
-    pname = "meetup";
-    version = "2025.03.05";
-    src = ./.;
-    buildInputs = with pkgs; [
-      codersonly-marp-theme
-      marp-cli
-    ];
-    buildPhase = ''
-      marp --theme-set ${codersonly-marp-theme} \
-           --theme codersonly \
-            2025-03-05.md
-    '';
-    installPhase = ''
-      mkdir -p $out
-      cp ${codersonly-marp-theme}/* $out
-      cp -r assets $out
-      cp 2025-03-05.html $out
-    '';
-  };
+  meetup-2024-11-12 = mkSlides {date = "2024-11-12";};
+  meetup-2025-03-05 = mkSlides {date = "2025-03-05";};
 }
