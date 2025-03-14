@@ -4,26 +4,26 @@
 
 @font-face {
   font-family: 'pragmata-mono';
-  src: url('/marp/themes/codersonly/PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'pragmata';
-  src: url('/marp/themes/codersonly/PragmataProR_liga_0830.woff2') format('woff2');
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/PragmataProR_liga_0830.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'siruca';
-  src: url('/marp/themes/codersonly/siruca1.2-webfont.eot');
-  src: url('/marp/themes/codersonly/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/marp/themes/codersonly/siruca1.2-webfont.woff2') format('woff2'),
-       url('/marp/themes/codersonly/siruca1.2-webfont.woff') format('woff'),
-       url('/marp/themes/codersonly/siruca1.2-webfont.ttf') format('truetype'),
-       url('/marp/themes/codersonly/siruca1.2-webfont.svg#sirucaregular') format('svg');
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.eot');
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.woff2') format('woff2'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.woff') format('woff'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.ttf') format('truetype'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.svg#sirucaregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -130,7 +130,6 @@ section.centered img {
 }
 
 section.sponsors p {
-  background: #fff;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -140,7 +139,6 @@ section.sponsors p {
 }
 
 section.sponsors img {
-  background: #fff;
   height: auto;
   width: 30%;
   display: inline-block;
