@@ -128,7 +128,7 @@ section.centered p {
 
 section.centered img {
   background: transparent;
-  max-width: 100%;
+  max-width: 50%;
   height: 50%;
   display: inline-block;
 }
