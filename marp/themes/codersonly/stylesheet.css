@@ -94,7 +94,7 @@ section :is(pre, marp-pre) {
 code {
   font-family: 'pragmata-mono';
   background-color: var(--color-canvas-default);
-  color: var(--color-aluen-hue-1);
+  color: var(--color-alien-hue-1);
   text-shadow: 0 0 12px var(--color-alien-hue-1);
   border: 1px solid var(--color-alien-hue-1);
   border-radius: 0;
