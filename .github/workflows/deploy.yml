@@ -52,18 +52,25 @@ jobs:
         run: |
           cat<<\EOF >> public/index.html
           <!DOCTYPE html>
-          <html><head><title>Coders Only Slides</title></head><body>
-          <ul>
+          <html>
+            <head>
+              <title>Coders Only Slides</title>
+              <link rel="stylesheet" type="text/css" href="assets/index.css">
+            </head>
+            <body>
+              <h1>Coders Only</h1>
+              <h2>Slides</h2>
+              <ul>
           EOF
 
           find public -type f -name "*.html" ! -name "index.html" | sort | while read file; do
             relative_path="${file#public/}"
-            echo "<li><a href=\"$relative_path\">$relative_path</a></li>" >> public/index.html
+            echo "      <li><a href=\"$relative_path\">$relative_path</a></li>" >> public/index.html
           done
 
           cat<<\EOF >> public/index.html
-          </ul>
-          </body>
+              </ul>
+            </body>
           </html>
           EOF
 

@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'pragmata-mono';
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/PragmataPro_Mono_R_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pragmata';
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/PragmataProR_liga_0830.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'siruca';
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.eot');
+  src: url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.eot?#iefix') format('embedded-opentype'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.woff2') format('woff2'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.woff') format('woff'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.ttf') format('truetype'),
+       url('https://slides.codersonly.org/marp/themes/codersonly/siruca1.2-webfont.svg#sirucaregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --color-main: #2CFF05;
+  --color-alien-hue-1: #45CC2D;
+  --color-alien-hue-2: #45663F;
+  --color-alien-hue-3: #2B332A;
+  --color-80s-disco-1: #D405FF;
+  --color-80s-disco-2: #FF0522;
+  --color-80s-disco-3: #871B3F;
+  --color-square-1: #05A9FF;
+  --color-square-2: #D805FF;
+  --color-square-3: #FF5B05;
+  --color-split-1: #5B05FF;
+  --color-split-2: #FF05A9;
+  --color-monochromatic-1: #20D000;
+  --color-monochromatic-2: #58FF39;
+
+  background: #000;
+}
+
+h1 {
+  color: var(--color-main);
+  text-shadow: 0 0 12px var(--color-main);
+  font-family: 'siruca';
+}
+
+h2 {
+  color: var(--color-80s-disco-1);
+  text-shadow: 0 0 12px var(--color-80s-disco-1);
+  font-family: 'siruca';
+}
+
+a {
+  color: var(--color-alien-hue-1);
+  text-shadow: 0 0 12px var(--color-alien-hue-1);
+  font-family: 'pragmata';
+}
