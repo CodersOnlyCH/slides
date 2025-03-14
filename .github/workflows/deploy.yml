@@ -42,6 +42,11 @@ jobs:
           mkdir -p public/marp/themes
           rsync -av --exclude='*.nix' marp/themes/ public/marp/themes/
 
+      - name: Copy assets
+        run: |
+          mkdir -p public/assets
+          rsync -av --exclude='*.nix' assets/ public/assets/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
