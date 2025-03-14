@@ -37,6 +37,11 @@ jobs:
               "$mdfile"
           done
 
+      - name: Copy marp themes
+        run: |
+          mkdir -p public/marp/themes
+          rsync -av --exclude='*.nix' marp/themes/ public/marp/themes/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
