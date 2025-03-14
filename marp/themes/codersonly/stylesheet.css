@@ -49,6 +49,10 @@
   --color-accent-fg: #05A9FF;
   --color-fg-default: #2CFF05;
   --color-border-default: var(--color-alien-hue-1);
+  --borderColor-default: var(--color-border-default);
+  --borderColor-muted: var(--color-border-default);
+  --bgColor-default: var(--color-canvas-default);
+  --bgColor-muted: var(--color-canvas-default);
   --h1-color: var(--color-fg-default);
 
   --color-prettylights-syntax-comment: var(--color-80s-disco-1);
