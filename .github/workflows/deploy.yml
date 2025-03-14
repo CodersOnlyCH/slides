@@ -32,6 +32,7 @@ jobs:
             output_file="public/${mdfile%.md}.html"
             mkdir -p "$(dirname $output_file)"
             marp --html \
+              --theme-set "marp/themes" \
               --output "$output_file" \
               "$mdfile"
           done
