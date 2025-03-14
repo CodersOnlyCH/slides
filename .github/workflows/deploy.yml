@@ -44,8 +44,9 @@ jobs:
 
       - name: Copy assets
         run: |
-          mkdir -p public/assets
-          rsync -av --exclude='*.nix' assets/ public/assets/
+          find . -type d -name "assets" -print0 | while IFS= read -r -d '' dir; do
+            rsync -av --exclude='*.nix' "$dir/" "public/${dir#./}/"
+          done
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
