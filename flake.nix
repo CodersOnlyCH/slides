@@ -15,17 +15,11 @@
         "x86_64-linux"
       ];
       perSystem = {pkgs, ...}: {
-        devShells = {
-          default = pkgs.mkShell {};
-          hugo = pkgs.mkShell {
-            packages = with pkgs; [
-              hugo
-            ];
-          };
+        devShells = rec {
+          default = presentation;
           presentation = pkgs.mkShell {
             packages = with pkgs; [
               marp-cli
-              reveal-md
             ];
           };
         };
