@@ -28,12 +28,10 @@ jobs:
 
       - name: Build Marp slides
         run: |
-          mkdir -p public
           for mdfile in $(find . -name '*.md'); do
             output_file="public/${mdfile%.md}.html"
-            mkdir -p "$(dirname "$output_file")"
+            mkdir -p "$(dirname $output_file)"
             marp --html \
-              --theme marp/themes/stylesheet.css \
               --output "$output_file" \
               "$mdfile"
           done
