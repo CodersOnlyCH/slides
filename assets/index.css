@@ -43,6 +43,11 @@
   background: #000;
 }
 
+body {
+  color: var(--color-alien-hue-1);
+  text-shadow: 0 0 12px var(--color-alien-hue-1);
+}
+
 h1 {
   color: var(--color-main);
   text-shadow: 0 0 12px var(--color-main);
