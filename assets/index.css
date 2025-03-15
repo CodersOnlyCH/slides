@@ -56,7 +56,7 @@ h2 {
 }
 
 a {
-  color: var(--color-alien-hue-1);
-  text-shadow: 0 0 12px var(--color-alien-hue-1);
+  color: var(--color-square-1);
+  text-shadow: 0 0 12px var(--color-square-1);
   font-family: 'pragmata';
 }
