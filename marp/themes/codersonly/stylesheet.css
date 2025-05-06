@@ -103,17 +103,30 @@ code {
 code .hljs-attr {
   text-shadow: 0 0 3px var(--color-prettylights-syntax-constant);
 }
+code .hljs-built_in {
+  text-shadow: 0 0 3px var(--color-prettylights-syntax-variable);
+}
 code .hljs-comment {
   text-shadow: 0 0 3px var(--color-prettylights-syntax-comment);
 }
 code .hljs-keyword {
   text-shadow: 0 0 3px var(--color-prettylights-syntax-keyword);
 }
+code .hljs-operator {
+  text-shadow: 0 0 3px var(--color-prettylights-syntax-constant);
+}
 code .hljs-string {
   text-shadow: 0 0 3px var(--color-prettylights-syntax-string);
 }
-code .hljs-built_in {
+code .hljs-subst {
+  text-shadow: 0 0 3px var(--color-prettylights-syntax-storage-modifier-import);
+}
+code .hljs-symbol {
   text-shadow: 0 0 3px var(--color-prettylights-syntax-variable);
+}
+
+section.title h1 {
+  font-size: 100pt;
 }
 
 section.centered p {
@@ -138,12 +151,12 @@ section.sponsors p {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
   padding: 1rem;
 }
 
 section.sponsors img {
   height: auto;
-  width: 30%;
+  width: 25%;
   display: inline-block;
 };

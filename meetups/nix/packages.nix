@@ -30,4 +30,5 @@
 in {
   meetup-2024-11-12 = mkSlides {date = "2024-11-12";};
   meetup-2025-03-05 = mkSlides {date = "2025-03-05";};
+  meetup-2025-05-06 = mkSlides {date = "2025-05-06";};
 }

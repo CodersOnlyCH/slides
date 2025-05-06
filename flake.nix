@@ -42,7 +42,7 @@
           inherit assets;
           inherit (gv) gv-2025;
           inherit (marp-themes) codersonly-marp-theme;
-          inherit (meetups) meetup-2024-11-12 meetup-2025-03-05;
+          inherit (meetups) meetup-2024-11-12 meetup-2025-03-05 meetup-2025-05-06;
           inherit (socrates) socrates-2025;
         };
       };
