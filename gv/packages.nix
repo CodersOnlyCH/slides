@@ -28,4 +28,5 @@
     };
 in {
   gv-2025 = mkSlides {date = "2025";};
+  gv-2025-06-24 = mkSlides {date = "2025-06-24";};
 }
