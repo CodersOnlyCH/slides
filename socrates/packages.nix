@@ -20,7 +20,7 @@ in {
     '';
     installPhase = ''
       mkdir -p $out
-      cp ${codersonly-marp-theme}/* $out
+      cp -r ${codersonly-marp-theme}/* $out
       cp 2025.html $out
     '';
   };

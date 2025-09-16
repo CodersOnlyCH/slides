@@ -22,7 +22,7 @@
       '';
       installPhase = ''
         mkdir -p $out
-        cp ${codersonly-marp-theme}/* $out
+        cp -r ${codersonly-marp-theme}/* $out
         cp -r assets $out
         cp ${date}.html $out
       '';
